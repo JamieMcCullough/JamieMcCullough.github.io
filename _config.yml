@@ -42,7 +42,7 @@ urlimg: 'https://JamieMcCullough.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo_small.png"
+logo: "logo_small_shadow.png"
 
 # Plugins
 plugins:
