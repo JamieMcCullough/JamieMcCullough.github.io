@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About Me"
-# subheadline: "The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory."
-teaser: "I am a <mark>postdoctoral researcher</mark> at Princeton University, studying the <mark>large-scale structure of the universe<\mark> with imaging and spectroscopic surveys."
+#subheadline: "The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory."
+teaser: "I am a <mark>postdoctoral researcher</mark> at Princeton University, studying the <mark>large-scale structure of the universe</mark> with imaging and spectroscopic surveys."
 permalink: "/info/"
 header:
     image_fullwidth: "wendelstein_solar_smaller.png"
