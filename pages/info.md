@@ -13,7 +13,7 @@ I did my PhD in physics at Stanford University and Ludwig Maximilians Universita
 <a class="button left r15 large radius" href="{{[2]}}">{{ *Curriculum Vitae* }}</a>
 
 <a class="button left r15 large radius" href="{{[3]}}">{{ NASA ADS }}</a>
-
+\n
 The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory.
 ![image]({{ site.url }}/images/Bild004_Neg.Nr.N4.jpg)
 ![image]({{ site.url }}/images/affiliations.png)
