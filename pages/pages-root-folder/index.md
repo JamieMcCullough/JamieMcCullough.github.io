@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: rubin.jpeg
-  caption: Image credit: Rubin Observatory/NSF/AURA/B. Quint
+  #caption: Image credit: Rubin Observatory/NSF/AURA/B. Quint
 
 widget1:
   title: "Research"
