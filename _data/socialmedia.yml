@@ -1,7 +1,7 @@
 - name: GitHub
   url: http://github.com/jmccull
   class: icon-github
-  title: "Code und more..."
+  title: "See my github profile"
 
 - name: ORC-ID
   url: https://orcid.org/0000-0002-4475-3456
