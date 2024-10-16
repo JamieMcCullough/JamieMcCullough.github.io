@@ -10,8 +10,8 @@ header:
 
 I completed my PhD in physics at Stanford and Ludwig Maximilians Universitaet Muenchen (LMU), and my undergraduate degree in aerospace engineering at the University of Texas at Austin, with a minor in astronomy. My [research][1] uses the tiny distortions we see in galaxy shapes as tracers of massive cosmic structure to learn things about dark matter, dark energy, and the expansion history of our universe.
 
-{% include alert info='<a href="https://JamieMcCullough.github.io/files/cv.pdf">*Curriculum Vitae*</a>' %}  
-{% include alert info='<a href=["https://JamieMcCullough.github.io/files/cv.pdf](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-4475-3456&sort=date+desc)">See some of my papers on NASA ADS</a>' %}
+{% include alert info='<p style="text-align: center;"><a href="https://JamieMcCullough.github.io/files/cv.pdf">*Curriculum Vitae*</a></p>' %}  
+{% include alert info='<p style="text-align: center;"><a href=https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-4475-3456&sort=date+desc">See some of my papers on NASA ADS</a></p>' %}
 
 The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory.
 ![image]({{ site.url }}/images/Bild004_Neg.Nr.N4.jpg)
