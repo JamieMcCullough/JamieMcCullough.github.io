@@ -2,12 +2,12 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Research
+  url: "/research/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Visualization and Outreach"
+  url: "/visualization/"
   side: left
   dropdown:
   - title: "Grid & Colors"
