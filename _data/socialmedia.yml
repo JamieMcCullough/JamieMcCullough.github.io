@@ -1,22 +1,27 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/jmccull
   class: icon-github
-  title: Code und mehr...
+  title: "Code und more..."
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: ORC-ID
+  url: https://orcid.org/0000-0002-4475-3456
+  class: icon-orcid
+  title: "A catalog of papers"
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+# - name: YouTube
+#   url: http://www.youtube.com/PhlowMedia
+#   class: icon-youtube
+#   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+# - name: Twitter
+#   url: http://twitter.com/phlow
+#   class: icon-twitter
+#   title: "Immer das Neuste von Phlow gibt es auf Twitter"
+
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
