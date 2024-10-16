@@ -10,27 +10,9 @@ header:
 
 I did my PhD in physics at Stanford University and Ludwig Maximilians Universitaet Muenchen (LMU), and my undergraduate degree in aerospace engineering at the University of Texas at Austin, with a minor in astronomy. My [research][1] uses the tiny distortions we see in galaxy shapes as tracers of massive cosmic structure to learn things about dark matter, dark energy, and the evolution history of our universe.
 
-<div class="row">
-	<div class="small-12 columns">
-	<div class="panel radius" style="padding-bottom: 21px;">
-			<a class="button left r15 tiny radius" href="{{[2]}}">{{ *Curriculum Vitae* }}</a>
-			<p style="margin-top: 3px;">
-			{{ For a list of my work and research qualifications. }}
-			</p>
-		</div>
-	</div>
-</div>
+<a class="button left r15 tiny radius" href="{{[2]}}">{{ *Curriculum Vitae* }}</a>
 
-<div class="row">
-	<div class="small-12 columns">
-	<div class="panel radius" style="padding-bottom: 21px;">
-			<a class="button left r15 tiny radius" href="{{[3]}}">{{ NASA ADS }}</a>
-			<p style="margin-top: 3px;">
-			{{ for a compilation of some of my papers.}}
-			</p>
-		</div>
-	</div>
-</div>
+<a class="button left r15 tiny radius" href="{{[3]}}">{{ NASA ADS }}</a>
 
  [1]: {{ site.url }}/research/
  [2]: {{ site.url }}/files/cv.pdf
