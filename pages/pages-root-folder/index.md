@@ -7,8 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: rubin.jpeg
-subtitle: "Image Credit: Rubin Observatory/NSF/AURA/B. Quint"
-"
+
 widget1:
   title: "Research"
   url: '/research/'
