@@ -2,6 +2,10 @@
   url: "/"
   side: left
 
+- title: About Me
+  url: "/about/"
+  side: left
+  
 - title: Research
   url: "/research/"
   side: left
@@ -11,11 +15,11 @@
   - title: "Collaborations"
     url: "/research/collaborations/"
 
-- title: "Visualization and Outreach"
+- title: "Gallery and Outreach"
   url: "/visualization/"
   side: left
   dropdown:
-  - title: "Visualization"
+  - title: "Visualizations"
     url: "/visualization/figures/"
   - title: "Tools for Outreach"
     url: "/visualization/outreach/"
