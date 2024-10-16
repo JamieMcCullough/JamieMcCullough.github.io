@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-subheadline: "The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory."
+# subheadline: "The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory."
 teaser: "I am a <mark>postdoctoral researcher</mark> at Princeton University, studying the <mark>large-scale structure of the universe<\mark> with imaging and spectroscopic surveys."
 permalink: "/info/"
 header:
@@ -14,6 +14,7 @@ I did my PhD in physics at Stanford University and Ludwig Maximilians Universita
 
 <a class="button left r15 large radius" href="{{[3]}}">{{ NASA ADS }}</a>
 
+The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory.
 ![image]({{ site.url }}/images/Bild004_Neg.Nr.N4.jpg)
 ![image]({{ site.url }}/images/affiliations.png)
 
