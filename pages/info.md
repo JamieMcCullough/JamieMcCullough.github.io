@@ -5,14 +5,14 @@ title: "About Me"
 teaser: "I am a <mark>postdoctoral researcher</mark> at Princeton University, studying the <mark>large-scale structure of the universe</mark> with imaging and spectroscopic surveys."
 permalink: "/info/"
 header:
-    image_fullwidth: "wendelstein_solar_smaller.png"
+    image_fullwidth: "wendelstein_solar_smaller_darker.png"
 ---
 
 I completed my PhD in physics at Stanford and Ludwig Maximilians Universitaet Muenchen (LMU), and my undergraduate degree in aerospace engineering at the University of Texas at Austin, with a minor in astronomy. My [research][1] uses the tiny distortions we see in galaxy shapes as tracers of massive cosmic structure to learn things about dark matter, dark energy, and the expansion history of our universe.
 
-<a  href={{[2]}} class="button r15 large radius">*Curriculum Vitae*</a>
+<a href={{[2]}} class="button left r15 large radius">*Curriculum Vitae*</a>
 <br/><br/>
-<a href={{[3]}} class="button r15 large radius" >NASA ADS</a>
+<a href={{[3]}} class="button left r15 large radius">NASA ADS</a>
 <br/><br/>
 <br/><br/>
 The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory.
