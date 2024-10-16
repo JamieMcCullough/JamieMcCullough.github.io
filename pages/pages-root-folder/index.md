@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: wendelstein_smaller_darker.png
+  image_fullwidth: wendelstein_solar_smaller_darker.png
 widget1:
   title: "Research"
   url: '/research/'
