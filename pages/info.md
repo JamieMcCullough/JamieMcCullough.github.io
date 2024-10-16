@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me
+title: "About Me"
 # subheadline: "Why another Jekyll Theme?"
 teaser: "I am a postdoctoral researcher at Princeton University, studying the large-scale structure of the universe with imaging and spectroscopic surveys."
 permalink: "/info/"
