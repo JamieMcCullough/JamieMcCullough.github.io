@@ -8,11 +8,11 @@ header:
     image_fullwidth: "wendelstein_solar_smaller.png"
 ---
 
-I did my PhD in physics at Stanford University and Ludwig Maximilians Universitaet Muenchen (LMU), and my undergraduate degree in aerospace engineering at the University of Texas at Austin, with a minor in astronomy. My [research][1] uses the tiny distortions we see in galaxy shapes as tracers of massive cosmic structure to learn things about dark matter, dark energy, and the evolution history of our universe.
+I completed my PhD in physics at Stanford and Ludwig Maximilians Universitaet Muenchen (LMU), and my undergraduate degree in aerospace engineering at the University of Texas at Austin, with a minor in astronomy. My [research][1] uses the tiny distortions we see in galaxy shapes as tracers of massive cosmic structure to learn things about dark matter, dark energy, and the expansion history of our universe.
 
-<a class="button left r15 large radius" href="{{[2]}}">{{ *Curriculum Vitae* }}</a>
+<a class="button left r15 large radius" href="{{[2]}}">*Curriculum Vitae*</a>
 
-<a class="button left r15 large radius" href="{{[3]}}">{{ NASA ADS }}</a>
+<a class="button left r15 large radius" href="{{[3]}}">NASA ADS</a>
 \n
 The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory.
 ![image]({{ site.url }}/images/Bild004_Neg.Nr.N4.jpg)
