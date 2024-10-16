@@ -14,7 +14,7 @@ title: 'Jamie McCullough'
 slogan: 'Postdoctoral Researcher in Observational Cosmology at Princeton University'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Jamie McCullough« is a postdoctoral researcher in observational cosmology at Princeton, specializing in probes large scale cosmic structure.'
+description: '»Jamie McCullough« is a postdoctoral researcher in observational cosmology at Princeton, specializing in probes of large scale cosmic structure.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Built upon the theme developed by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>: <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
