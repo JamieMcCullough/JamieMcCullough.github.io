@@ -10,9 +10,9 @@ header:
 
 I completed my PhD in physics at Stanford and Ludwig Maximilians Universitaet Muenchen (LMU), and my undergraduate degree in aerospace engineering at the University of Texas at Austin, with a minor in astronomy. My [research][1] uses the tiny distortions we see in galaxy shapes as tracers of massive cosmic structure to learn things about dark matter, dark energy, and the expansion history of our universe.
 
-<a class="button center r15 large radius">[*Curriculum Vitae*]([2])</a>
+<a class="button center r15 large radius">[*Curriculum Vitae*][2]</a>
 <br/><br/>
-<a class="button center r15 large radius">[NASA ADS]([3])</a>
+<a class="button center r15 large radius">[NASA ADS][3]</a>
 <br/><br/>
 <br/><br/>
 The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory.
