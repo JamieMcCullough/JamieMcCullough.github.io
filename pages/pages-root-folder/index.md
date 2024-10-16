@@ -6,7 +6,9 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: wendelstein_solar_smaller_darker.png
+  image_fullwidth: rubin.jpeg
+subtitle: "Image Credit: Rubin Observatory/NSF/AURA/B. Quint"
+"
 widget1:
   title: "Research"
   url: '/research/'
