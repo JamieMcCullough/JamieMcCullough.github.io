@@ -20,6 +20,6 @@ The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research gr
 ![image]({{ site.url }}/images/affiliations.png)
 
  [1]: {{ site.url }}/research/
- [2]: "{{ site.url }}/files/cv.pdf"
+ [2]: {{ site.url }}/files/cv.pdf
  [3]: "https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-4475-3456&sort=date+desc"
  [4]: https://www.usm.lmu.de/Personnel_en.php#artif
