@@ -16,8 +16,8 @@ I completed my PhD in physics at Stanford and Ludwig Maximilians Universitaet Mu
     <a class="radius button small" href="[{{ site.url }}{{ site.baseurl }}/files/cv.pdf](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-4475-3456&sort=date+desc)">See some of my papers on <strong>NASA ADS</strong> ›</a>  
 </p>
   
-The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory.
 ![image]({{ site.url }}/images/Bild004_Neg.Nr.N4.jpg)
+The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory.
 ![image]({{ site.url }}/images/affiliations.png)
 
  [1]: {{ site.url }}/research/
