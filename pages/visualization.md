@@ -1,9 +1,4 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
 layout: frontpage
 permalink: "/visualization/"
 header:
@@ -20,3 +15,9 @@ widget2:
   url: '/visualization/figures/'
   text: 'I have created a number of didactic figures to explain astrophysical phenomena that scientists and students alike are welcome to use in any context.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+widget3:
+  title: "Visualizations"
+  url: '/visualization/figures/'
+  text: 'I have created a number of didactic figures to explain astrophysical phenomena that scientists and students alike are welcome to use in any context.'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+---
