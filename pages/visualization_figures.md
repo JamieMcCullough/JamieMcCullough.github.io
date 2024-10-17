@@ -28,31 +28,27 @@ header: no
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}animation_expansion_cropped.gif" alt="">
-        <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
+        <p>A demonstration of the expanding universe, where every object becomes further away from every other unless they are gravitationally bound.</p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}balmer_break_grizy.gif" alt="">
-        <p>Website: <a href="https://phlow.de/">Phlow.de</a></p>
+        <img src="{{ site.urlimg }}weak_lensing_blender.gif" alt="">
+        <p>Weak lensing in action, where foreground structures (blue) distort the background shapes, shearing them tangentially, magnifying them, and displacing them. Galaxy shapes that are distorted in this way can trace this foreground structure, even if that structure is entirely invisible to our instruments.</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
 
 <div class="row t30">
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_andersneu.jpg" alt="">
-        <p>Website: <a href="https://andersneu.de/">andersneu.de</a></p>
-    </div><!-- /.medium-4.columns -->
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}balmer_break_grizy.gif" alt="">
+        <p>When observing a passive galaxy spectrum, we see a sharp drop off in flux around 400 nm. As the galaxy becomes further away, we can see this break shifting to higher wavlengths. When we only have the images collected by filters, rather than the entire spectrum, we see this feature as the galaxy vanishes from our image. The correlation of when the galaxy disappears is closely linked to its distance!</p>
+    </div><!-- /.medium-6.columns -->
 
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_mosonic.jpg" alt="">
-        <p>Website: <a href="https://mosonic.net/">mosonic.net</a></p>
-    </div><!-- /.medium-4.columns -->
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}redshifting_oii.gif" alt="">
+        <p>A star forming galaxy with the O-II doublet (in blue) at increasing distance and redshift away from us. When the blue line passes inot the gray region, it is undetectable by most silicon-based detectors and measuring the redshift from a given spectrum becomes difficult.</p>
+    </div><!-- /.medium-6.columns -->
 
-    <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}webdesign_screenshot_moritz_sauer.jpg" alt="">
-        <p>Website: <a href="https://moritz.sauer.io/">Webdesign, SEO, Music</a></p>
-    </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
 {% include gallery %}
