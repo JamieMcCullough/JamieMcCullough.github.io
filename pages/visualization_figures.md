@@ -51,4 +51,27 @@ header: no
 
 </div><!-- /.row -->
 
-{% include gallery %}
+<div class="row t60">
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}cleaner_grid-gif_brighter.gif" alt="">
+        <p>A depiction of gravitational lensing in an idealized background shows how light gets warped around an (invisible) foreground dark matter halo. As the lensing mass moves towards and away from the observer we can see the shapes of galaxies change.</p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}hubble_deep_stronglens.gif" alt="">
+        <p>A depiction of strong gravitational lensing in front of the Hubble Ultra-Deep field, producing so-called Einstein rings when a galaxy is directly behind the lensing halo.</p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<div class="row t60">
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}som_visualization_wmap_cropped_resized.gif" alt="">
+        <p>A depiction of a self-organizing map (SOM) learning the shape of a 3D data manifold, and reducing the dimensionality to 2D map efficiently.</p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}som_visualization_gauss_wmap-cropped_smallsize.gif" alt="">
+        <p>A depiction of a self-organizing map (SOM) at work, discretizing a 3D space into the 2D map seen on the right. This unsupervised machine learning technique preserves the geometry and distribution of the data.</p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
