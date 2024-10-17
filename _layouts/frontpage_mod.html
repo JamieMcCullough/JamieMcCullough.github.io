@@ -4,7 +4,7 @@ format: frontpage_mod
 ---
 <div id="header-home">
     <div class="row">
-        <div class="small-6 columns">
+        <div class="small-12 columns">
         </div><!-- /.medium-4.columns -->
     </div><!-- /.row -->
 </div><!-- /#header-home -->
@@ -15,18 +15,20 @@ format: frontpage_mod
 * First check, if widget is empty or not by checking if there is a title
 *
 {% endcomment %}
-<div class="row t90">
-	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
-		{% include _frontpage-widget.html widget=page.widget1 %}
-	{% endif %}
+<div class="row t60">
+	<p style="text-align:center;">
+		{% if page.widget1.image or page.widget1.video or page.widget1.title %}
+			{% include _frontpage-widget.html widget=page.widget1 %}
+		{% endif %}
 
-	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
-		{% include _frontpage-widget.html widget=page.widget2 %}
-	{% endif %}
+		{% if page.widget2.image or page.widget2.video or page.widget2.title %}
+			{% include _frontpage-widget.html widget=page.widget2 %}
+		{% endif %}
 
-	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
-		{% include _frontpage-widget.html widget=page.widget3 %}
-	{% endif %}
+		{% if page.widget3.image or page.widget3.video or page.widget3.title %}
+			{% include _frontpage-widget.html widget=page.widget3 %}
+		{% endif %}
+	</p>
 </div><!-- /.row -->
 
 
