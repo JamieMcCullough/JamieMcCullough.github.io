@@ -33,12 +33,12 @@
   - title: "DES: Blue Cosmic Shear"
     url: "/data/blueshear/"
 
-- title: Blog
-  url: "/blog/"
+- title: Articles
+  url: "/articles/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Archive"
+    url: "/articles/archive/"
 
 - title: "Search"
   url: "/search/"
