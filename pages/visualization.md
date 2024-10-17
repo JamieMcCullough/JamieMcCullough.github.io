@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-url: /visualization/
+permalink: "/visualization/"
 header:
   image_fullwidth: rubin.jpeg
   #caption: Image credit: Rubin Observatory/NSF/AURA/B. Quint
