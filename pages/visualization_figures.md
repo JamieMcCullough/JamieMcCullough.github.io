@@ -65,7 +65,7 @@ header: no
 
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}som_visualization_wmap_cropped_resized.gif" alt="">
+        <img src="{{ site.urlimg }}som_visualization_wmap_cropped-resized.gif" alt="">
         <p>A depiction of a self-organizing map (SOM) learning the shape of a 3D data manifold, and reducing the dimensionality to 2D map efficiently.</p>
     </div><!-- /.medium-6.columns -->
 
