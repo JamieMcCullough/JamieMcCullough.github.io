@@ -27,12 +27,12 @@ header: no
 ---
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
+        <img src="{{ site.urlimg }}animation_expansion_cropped.gif" alt="">
         <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt="">
+        <img src="{{ site.urlimg }}balmer_break_grizy.gif" alt="">
         <p>Website: <a href="https://phlow.de/">Phlow.de</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
