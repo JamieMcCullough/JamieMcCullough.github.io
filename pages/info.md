@@ -1,5 +1,6 @@
 ---
 layout: page
+sidebar: left
 title: "About Me"
 #subheadline: "The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory."
 teaser: "I am a <mark>postdoctoral researcher</mark> at Princeton University, studying the <mark>large-scale structure of the universe</mark> with imaging and spectroscopic surveys."
