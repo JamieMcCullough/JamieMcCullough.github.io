@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline:  "Visualization / Figures"
 title:  "Visual Demonstrations"
 permalink: "/visualization/figures/"
