@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: frontpage_mod
 permalink: "/visualization/"
 header:
   image_fullwidth: rubin.jpeg
