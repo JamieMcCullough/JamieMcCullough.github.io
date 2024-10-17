@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "Visualization / Figures"
 title:  "Visual Demonstrations"
-url: /visualization/figures/
+permalink: "/visualization/figures/"
 teaser: "All images and gifs here are freely used with attribution in any presentation."
 image:
    thumb: "gallery-example-1-thumb.jpg"
