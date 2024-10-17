@@ -14,7 +14,7 @@ widget2:
   title: "Visualizations"
   url: '/visualization/figures/'
   text: 'I have created a number of didactic figures to explain astrophysical phenomena that scientists and students alike are welcome to use in any context.'
-  image: <img src="{{site.urlimg}}hubble_deep_stronglens.gif" width="302" height="182" alt="">
+  image: cleaner_grid-gif_brighter.gif
 #widget3:
 #  title: "Teaching"
 #  url: '/visualization/figures/'
