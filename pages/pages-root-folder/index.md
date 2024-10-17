@@ -23,7 +23,7 @@ widget3:
   title: "Play with the data"
   url: '/data/'
   image: widget-github-303x182.jpg
-  text: 'Are you a researcher? Find some of the publicly available data related to my papers.'
+  text: 'Are you a researcher? Find some of the publicly available data related to my papers here and engage with it interactively.'
 #
 # Use the call for action to show a button on the frontpage
 #
