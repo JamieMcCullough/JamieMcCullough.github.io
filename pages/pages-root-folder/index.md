@@ -18,7 +18,7 @@ widget2:
   title: "Visualizations"
   url: '/visualization/figures/'
   text: 'I have created a number of didactic figures to explain astrophysical phenomena that scientists and students alike are welcome to use in any context.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  image: hubble_deep_stronglens.gif
 widget3:
   title: "Play with the data"
   url: '/data/'
