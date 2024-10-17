@@ -5,6 +5,5 @@ meta_title          : "Contact me by email"
 subheadline         : "To chat about scientific collaboration or outreach"
 teaser              : "You can get in touch with me at <a href="mailto:mccullough.jamie.astro@gmail.com" target="_blank">mccullough.jamie.astro@gmail.com</a>."
 permalink           : "/contact/"
-header              : 
-    image_fullwidth: gallery-example-1.jpg
+header              : no
 ---
