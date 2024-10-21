@@ -3,7 +3,7 @@ layout: page
 title:  "DESI Complete Calibration of the Color-Redshift Relation (DC3R2)"
 teaser: "Disentangling galaxy evolution from galaxy distance"
 header: no
-sidebar_mod: right
+sidebar_mod: left
 permalink: '/data/dc3r2/'
 ---
 
@@ -28,9 +28,20 @@ need for carefully chosen deep drilling fields, and survey simulation to model t
 - To reproduce the figures in the paper, see the data and jupyter notebook available on [Zenodo](https://zenodo.org/record/8328495)
 - _For spectroscopy access_: See [DESI's Early Data Release](https://data.desi.lbl.gov/doc/releases/edr/#value-added-catalogs)
 - **Data visualization widgets:** Explore the data set in your browser to understand how color, redshift, and SED type are related, alongside exposure times and the effects of bias on photometric redshift inference. Note that this runs best in full screen and may take a moment to load on first viewing.
-  - [Redshift Distributions and SEDs](http://jmccull.github.io/dataproducts_dc3r2/)
-    <a href="http://jmccull.github.io/dataproducts_dc3r2/"><img src="{{site.url}}/images/pz_dist.png?raw=True" width = 100%; height =auto></a></p>
-  - [Exposure Time and Magnitude Distributions](http://jmccull.github.io/dataproducts_dc3r2/exposure_time/)
-    <a href="http://jmccull.github.io/dataproducts_dc3r2/exposure_time/"><img src="{{site.url}}/images/exptimes.png?raw=True" width = 100%; height =auto></a></p>
-  - [Spectroscopic Selection Effects and Redshift Inference via Tomography](http://jmccull.github.io/dataproducts_dc3r2/tomography/)
-    <a href="http://jmccull.github.io/dataproducts_dc3r2/tomography/"><img src="{{site.url}}/images/tomobin.png?raw=True" width = 100%; height =auto></a></p>
+
+<div class="row t60">
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}pz_dist.png" alt="">
+        <p><a href="[http://jcorneille.de](http://jmccull.github.io/dataproducts_dc3r2/)">Redshift Distributions and SEDs</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}exptimes.png" alt="">
+        <p><a href="http://jmccull.github.io/dataproducts_dc3r2/exposure_time/">Exposure Time and Magnitude Distributions</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}tomobin.png" alt="">
+        <p><a href="http://jmccull.github.io/dataproducts_dc3r2/tomography/">Spectroscopic Selection Effects and Redshift Inference via Tomography</a></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
