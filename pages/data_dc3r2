@@ -1,15 +1,13 @@
 ---
 layout: page
-sidebar: right
 subheadline: Templates
-title:  "DESI Complete Calibration of the Color-Redshift Relation (DC3R2)
-McCullough <em>et al.</em> 2024"
+title:  "DESI Complete Calibration of the Color-Redshift Relation (DC3R2)"
 teaser: "Disentangling galaxy evolution and galaxy distance"
 header: no
 
-permalink: /data/dc3r2/
+permalink: '/data/dc3r2/'
 ---
-
+### McCullough <em>et al.</em> 2024
 ## Abstract
 We present initial results from the Dark Energy Spectroscopic Instrument (DESI) Complete Calibration of the Color-Redshift
 Relation (DC3R2) secondary target survey. Our analysis uses 230k galaxies that overlap with KiDS-VIKING _ugriZYHJKs_
