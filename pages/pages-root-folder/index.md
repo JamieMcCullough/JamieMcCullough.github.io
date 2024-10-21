@@ -22,7 +22,7 @@ widget2:
 widget3:
   title: "Play with the data"
   url: '/data/'
-  image: dat_widget.jpg
+  image: data_widget.jpg
   text: 'Are you a researcher? Find some of the publicly available data related to my papers here and engage with it interactively.'
 #
 # Use the call for action to show a button on the frontpage
