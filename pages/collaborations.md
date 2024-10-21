@@ -7,12 +7,12 @@ title:  "Scientific Collaborations"
 ---
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="https://noirlab.edu/public/media/archives/logos/screen/logo044.jpg" alt="Credit: NOIRLab" height=auto width=200px>
+        <img src="https://noirlab.edu/public/media/archives/logos/screen/logo044.jpg" alt="Credit: NOIRLab" height=auto width=270px>
         <p>The <a href="https://www.darkenergysurvey.org/">Dark Energy Survey (DES)</a>.</p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
-        <img src="https://phyweb.lbl.gov/~rncahn/www/desi.jpg" alt="Credit: DESI" height=200px width=auto>
+        <img src="https://phyweb.lbl.gov/~rncahn/www/desi.jpg" alt="Credit: DESI" height=auto width=400px>
         <p>The <a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>.</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
