@@ -17,13 +17,13 @@ widget1:
 widget2:
   title: "Visualizations"
   url: '/visualization/figures/'
-  text: 'I have created a number of didactic figures to explain astrophysical phenomena that scientists and students alike are welcome to use in any context.'
+  text: 'I have created a number of tools and figures to explain astrophysical phenomena that instructors, scientists, and students alike are welcome to use in any format.'
   image: hubble_deep_stronglens.gif
 widget3:
   title: "Play with the data"
   url: '/data/'
   image: data_widget.jpg
-  text: 'Are you a researcher? Find some of the publicly available data related to my papers here and engage with it interactively.'
+  text: 'Are you a researcher? Find some of the <strong>publicly available data</strong> related to my papers here and engage with it <strong>interactively</strong>.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -35,8 +35,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: '/contact/'
+  text: Contact me about science or outreach ›
   style: alert
 permalink: /index.html
 #
