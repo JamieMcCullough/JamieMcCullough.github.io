@@ -62,4 +62,17 @@ format: post
 		{% include _sidebar.html %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
+
+	{% if page.sidebar_mod == "left" %}
+	<div class="medium-4 columns medium-pull-8">
+		{% include _sidebar_mod.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+
+	{% if page.sidebar_mod == "right" %}
+	<div class="medium-4 columns">
+		{% include _sidebar_mod.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
 </div><!-- /.row -->
