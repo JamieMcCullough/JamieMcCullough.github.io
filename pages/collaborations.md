@@ -15,9 +15,7 @@ title:  "Scientific Collaborations"
         <img src="https://phyweb.lbl.gov/~rncahn/www/desi.jpg" alt="Credit: DESI" height=auto width=370px>
         <p>The <a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>.</p>
     </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
 
-<div class="row t60">
     <div class="medium-6 columns b30">
         <img src="https://lsstdesc.org/assets/img/logo.png" alt="Credit: LSST/DESC" height=200px width=auto>
         <p>The Legacy Survey of Space and Time (LSST) at the <a href="https://rubinobservatory.org/">Vera Rubin Observatory</a> and the <a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a>.</p>
