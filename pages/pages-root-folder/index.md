@@ -12,7 +12,7 @@ header:
 widget1:
   title: "Research"
   url: '/research/'
-  image: widget-1-302x182.jpg
+  image: research_widget.png
   text: 'Weak gravitational lensing makes use of millions of galaxies to probe the largest structures in our universe. With spectroscopic and imaging surveys we can gain a high resolution picture of galaxies in the cosmic web.'
 widget2:
   title: "Visualizations"
@@ -22,7 +22,7 @@ widget2:
 widget3:
   title: "Play with the data"
   url: '/data/'
-  image: widget-github-303x182.jpg
+  image: dat_widget.jpg
   text: 'Are you a researcher? Find some of the publicly available data related to my papers here and engage with it interactively.'
 #
 # Use the call for action to show a button on the frontpage
