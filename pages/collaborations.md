@@ -7,7 +7,7 @@ title:  "Scientific Collaborations"
 ---
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="https://noirlab.edu/public/media/archives/logos/screen/logo044.jpg" alt="Credit: NOIRLab" height=200px width=auto>
+        <img src="https://noirlab.edu/public/media/archives/logos/screen/logo044.jpg" alt="Credit: NOIRLab" height=100px width=auto>
         <p>The <a href="https://www.darkenergysurvey.org/">Dark Energy Survey (DES)</a>.</p>
     </div><!-- /.medium-6.columns -->
 
