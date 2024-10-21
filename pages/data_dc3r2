@@ -4,7 +4,7 @@ subheadline: Templates
 title:  "DESI Complete Calibration of the Color-Redshift Relation (DC3R2)"
 teaser: "Disentangling galaxy evolution and galaxy distance"
 header: no
-
+sidebar_mod: right
 permalink: '/data/dc3r2/'
 ---
 ### McCullough <em>et al.</em> 2024
