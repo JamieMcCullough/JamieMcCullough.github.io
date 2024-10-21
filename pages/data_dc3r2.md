@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "DESI Complete Calibration of the Color-Redshift Relation (DC3R2)"
-teaser: "Disentangling galaxy evolution and galaxy distance"
+teaser: "Disentangling galaxy evolution from galaxy distance"
 header: no
 sidebar_mod: right
 permalink: '/data/dc3r2/'
@@ -9,15 +9,15 @@ permalink: '/data/dc3r2/'
 
 ### McCullough <em>et al.</em> 2024
 ## Abstract
-We present initial results from the Dark Energy Spectroscopic Instrument (DESI) Complete Calibration of the Color-Redshift
-Relation (DC3R2) secondary target survey. Our analysis uses 230k galaxies that overlap with KiDS-VIKING _ugriZYHJKs_
+We present initial results from the <mark>Dark Energy Spectroscopic Instrument (DESI)</mark> Complete Calibration of the Color-Redshift
+Relation (DC3R2) secondary target survey. Our analysis uses <mark>230k galaxies</mark> that overlap with KiDS-VIKING _ugriZYHJKs_
 photometry to calibrate the color-redshift relation and to inform photometric redshift (photo-z) inference methods of future
 weak lensing surveys. Together with Emission Line Galaxies (ELGs), Luminous Red Galaxies (LRGs), and the Bright Galaxy
-Survey (BGS) that provide samples of complementary color, the DC3R2 targets help DESI to span 56% of the color space
-visible to Euclid and LSST with high confidence spectroscopic redshifts. The effects of spectroscopic completeness and quality
+Survey (BGS) that provide samples of complementary color, the <mark>DC3R2 targets help DESI to span 56% of the color space
+visible to Euclid and LSST with high confidence spectroscopic redshifts</mark>. The effects of spectroscopic completeness and quality
 are explored, as well as systematic uncertainties introduced with the use of common Self Organizing Maps trained on different
-photometry than the analysis sample. We further examine the dependence of redshift on magnitude at fixed color, important
-for the use of bright galaxy spectra to calibrate redshifts in a fainter photometric galaxy sample. We find that noise in the
+photometry than the analysis sample. We further examine the <mark>dependence of redshift on magnitude at fixed color</mark>, important
+for the use of <mark>bright galaxy spectra to calibrate redshifts in a fainter photometric galaxy sample</mark>. We find that noise in the
 KiDS-VIKING photometry introduces a dominant, apparent magnitude dependence of redshift at fixed color, which indicates a
 need for carefully chosen deep drilling fields, and survey simulation to model this effect for future weak lensing surveys.
 
