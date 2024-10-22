@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Articles"
+#title: "Articles"
 permalink: "/articles/"
 
 header:
-    title: header with text
+    title: Articles
     background-color: "#EFC94C;"
     image_fullwidth: "dark-universe-lss-large.jpg"
     caption: "Credit: Ralf Kaehler, Carter Emmart, Tom Abel, Oliver Hahn"
