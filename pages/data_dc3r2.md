@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title:  "DESI Complete Calibration of the Color-Redshift Relation (DC3R2)"
 teaser: "Disentangling galaxy evolution from galaxy distance"
 header: no
@@ -23,11 +23,12 @@ need for carefully chosen deep drilling fields, and survey simulation to model t
 
 ## Available data products
 - The paper, <a href="https://arxiv.org/abs/2309.13109">arxiv</a>, <a href="https://academic.oup.com/mnras/article/531/2/2582/7686823">MNRAS</a>
-- The [Astrobites summary](https://astrobites.org/2023/10/02/dc3r2/), put together by Katherine Lee
+- The [_Astrobites_ overview](https://astrobites.org/2023/10/02/dc3r2/), put together by Katherine Lee
 - The LMU press release, <a href="https://www.lmu.de/en/newsroom/news-overview/news/cosmic-wrestling-match.html"><em>A Cosmic Wrestling Match</em></a>, also available on <a href="https://www.sciencedaily.com/releases/2024/07/240715135346.htm"><em>Science Daily</em></a>
 - To reproduce the figures in the paper, see the data and jupyter notebook available on [Zenodo](https://zenodo.org/record/8328495)
 - _For spectroscopy access_: See [DESI's Early Data Release](https://data.desi.lbl.gov/doc/releases/edr/#value-added-catalogs)
-- **Data visualization widgets:** Explore the data set in your browser to understand how color, redshift, and SED type are related, alongside exposure times and the effects of bias on photometric redshift inference. Note that this runs best in full screen and may take a moment to load on first viewing.
+## Data visualization widgets 
+Explore the data set in your browser to understand how color, redshift, and SED type are related, alongside exposure times and the effects of bias on photometric redshift inference. Note that this runs best in full screen and may take a moment to load on first viewing.
 
 <div class="row t60">
     <div class="medium-6 columns b30">
