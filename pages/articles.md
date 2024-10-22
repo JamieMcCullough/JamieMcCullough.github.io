@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 show_meta: false
-#title: "Articles"
+#title: "Articles and Press Releases"
 permalink: "/articles/"
 
 header:
