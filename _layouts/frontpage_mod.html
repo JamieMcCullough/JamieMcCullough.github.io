@@ -16,19 +16,19 @@ format: frontpage_mod
 *
 {% endcomment %}
 <div class="row t60">
-	<p style="text-align:center;">
 		{% if page.widget1.image or page.widget1.video or page.widget1.title %}
 			{% include _frontpage-widget.html widget=page.widget1 %}
 		{% endif %}
-
+</div><!-- /.row -->
+<div class="row t60">
 		{% if page.widget2.image or page.widget2.video or page.widget2.title %}
 			{% include _frontpage-widget.html widget=page.widget2 %}
 		{% endif %}
-
+</div><!-- /.row -->
+<div class="row t60">
 		{% if page.widget3.image or page.widget3.video or page.widget3.title %}
 			{% include _frontpage-widget.html widget=page.widget3 %}
 		{% endif %}
-	</p>
 </div><!-- /.row -->
 
 
