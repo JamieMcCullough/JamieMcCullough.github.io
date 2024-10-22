@@ -42,8 +42,8 @@ Explore the data set in your browser to understand how color, redshift, and SED 
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 <div class="row t60">
-    <div class="medium-4 columns b30">
+    <div class="medium-12 columns b30">
         <img src="{{ site.urlimg }}tomobin.png" alt="" class="center">
         <p style="text-align:center"><a href="http://jmccull.github.io/dataproducts_dc3r2/tomography/">Spectroscopic Selection Effects and Redshift Inference via Tomography</a></p>
-    </div><!-- /.medium-6.columns -->
+    </div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
