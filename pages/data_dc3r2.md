@@ -31,15 +31,16 @@ need for carefully chosen deep drilling fields, and survey simulation to model t
 Explore the data set in your browser to understand how color, redshift, and SED type are related, alongside exposure times and the effects of bias on photometric redshift inference. Note that this runs best in full screen and may take a moment to load on first viewing.
 
 <div class="row t60">
-    <div class="medium-6 columns b30">
+    <div class="medium-12 columns b30">
         <img src="{{ site.urlimg }}pz_dist.png" alt="" class="center">
         <p style="text-align:center"><a href="[http://jcorneille.de](http://jmccull.github.io/dataproducts_dc3r2/)">Redshift Distributions and SEDs</a></p>
-    </div><!-- /.medium-6.columns -->
-
-    <div class="medium-6 columns b30">
+    </div><!-- /.medium-12.columns -->
+</div><!-- /.row -->
+<div class="row t60">
+    <div class="medium-12 columns b30">
         <img src="{{ site.urlimg }}exptimes.png" alt="" class="center">
         <p style="text-align:center"><a href="http://jmccull.github.io/dataproducts_dc3r2/exposure_time/">Exposure Time and Magnitude Distributions</a></p>
-    </div><!-- /.medium-6.columns -->
+    </div><!-- /.medium-12columns -->
 </div><!-- /.row -->
 <div class="row t60">
     <div class="medium-12 columns b30">
