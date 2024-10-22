@@ -33,16 +33,17 @@ Explore the data set in your browser to understand how color, redshift, and SED 
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}pz_dist.png" alt="">
-        <p><a href="[http://jcorneille.de](http://jmccull.github.io/dataproducts_dc3r2/)">Redshift Distributions and SEDs</a></p>
+        <p text-align: center;><a href="[http://jcorneille.de](http://jmccull.github.io/dataproducts_dc3r2/)">Redshift Distributions and SEDs</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}exptimes.png" alt="">
-        <p><a href="http://jmccull.github.io/dataproducts_dc3r2/exposure_time/">Exposure Time and Magnitude Distributions</a></p>
+        <p text-align: center;><a href="http://jmccull.github.io/dataproducts_dc3r2/exposure_time/">Exposure Time and Magnitude Distributions</a></p>
     </div><!-- /.medium-6.columns -->
-
+</div><!-- /.row -->
+<div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}tomobin.png" alt="">
-        <p><a href="http://jmccull.github.io/dataproducts_dc3r2/tomography/">Spectroscopic Selection Effects and Redshift Inference via Tomography</a></p>
+        <p text-align: center;><a href="http://jmccull.github.io/dataproducts_dc3r2/tomography/">Spectroscopic Selection Effects and Redshift Inference via Tomography</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
