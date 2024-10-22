@@ -36,9 +36,9 @@
 - title: Articles
   url: "/articles/"
   side: left
-  dropdown:
-  - title: "Archive"
-    url: "/articles/archive/"
+  # dropdown:
+  # - title: "Archive"
+  #   url: "/articles/archive/"
 
 - title: "Search"
   url: "/search/"
