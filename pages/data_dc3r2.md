@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title:  "DESI Complete Calibration of the Color-Redshift Relation (DC3R2)"
 teaser: "Disentangling galaxy evolution from galaxy distance"
 header: no
