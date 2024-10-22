@@ -13,7 +13,7 @@ I completed my PhD in physics at Stanford and Ludwig Maximilians Universitaet Mu
   
 <p style="text-align: center;">
     <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/files/cv.pdf"><em>Curriculum Vitae</em> ›</a> <br/>
-    <a class="radius button small" href="[{{ site.url }}{{ site.baseurl }}/files/cv.pdf](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-4475-3456&sort=date+desc)">See some of my papers on <strong>NASA ADS</strong> ›</a>  
+    <a class="radius button small" href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-4475-3456&sort=date+desc">See some of my papers on <strong>NASA ADS</strong> ›</a>  
 </p>
   
 ![image]({{ site.url }}/images/Bild004_Neg.Nr.N4.jpg)
