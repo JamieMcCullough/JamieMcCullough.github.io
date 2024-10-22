@@ -7,4 +7,4 @@ teaser              : "To chat about scientific collaboration or outreach, conta
 permalink           : "/contact/"
 header              : no
 ---
-## You can get in touch with me at <a href="mailto:mccullough.jamie.astro@gmail.com" target="_blank">mccullough.jamie.astro@gmail.com</a>.
+### You can get in touch with me at <a href="mailto:mccullough.jamie.astro@gmail.com" target="_blank">mccullough.jamie.astro@gmail.com</a>.
