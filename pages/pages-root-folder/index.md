@@ -11,7 +11,7 @@ header:
 
 widget1:
   title: "Research"
-  url: '/research/'
+  url: '/research/projects/'
   image: research_widget.png
   text: 'Weak gravitational lensing makes use of millions of galaxies to probe the largest structures in our universe. With spectroscopic and imaging surveys we can gain a high resolution picture of galaxies in the cosmic web.'
 widget2:
