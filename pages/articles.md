@@ -7,7 +7,7 @@ header:
 permalink: "/articles/"
 ---
 <ul>
-    {% for post in site.categories.design %}
+    {% for post in site.categories.articles %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
