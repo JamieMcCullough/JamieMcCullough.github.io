@@ -3,8 +3,15 @@ layout: page
 show_meta: false
 title: "Articles"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: 
 permalink: "/articles/"
+
+header:
+    title: header with text
+    background-color: "#EFC94C;"
+    image_fullwidth: "https://www.slac.stanford.edu/~kaehler/homepage/visualizations/images/single-frames/dark-universe-lss-large.jpg"
+    caption: Credit: Ralf Kaehler, Carter Emmart, Tom Abel, Oliver Hahn
+    caption_url: https://www.slac.stanford.edu/~kaehler/homepage/visualizations/images/
 ---
 <ul>
     {% for post in site.categories.articles %}
