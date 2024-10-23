@@ -1,7 +1,7 @@
 ---
 layout: page
 #title:  "Dark Energy Survey Year 3: Blue shear"
-teaser: "Star-forming spiral galaxies have less busy neighborhoods and are excellent candidates for mapping cosmic structure"
+teaser: "Star-forming spiral galaxies have less crowded extragalactic neighborhoods --<br>making them excellent candidates for mapping cosmic structure."
 header:
     title: "Dark Energy Survey Year 3:<br>Blue shear"
     background-color: "#EFC94C;"
