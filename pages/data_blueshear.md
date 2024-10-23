@@ -14,7 +14,7 @@ permalink: '/data/blueshear/'
 
 ### McCullough <em>et al.</em> 2024
 ## Abstract
-Placeholder text
+This webpage is under construction!
 
 ## Available data products
 - The paper, <a href="">arxiv</a>, <a href="">PRL</a>
