@@ -5,7 +5,7 @@ show_meta: false
 permalink: "/articles/"
 
 header:
-    title: Articles & Press Releases
+    title: Articles<br>&<br>Press Releases
     background-color: "#EFC94C;"
     image_fullwidth: "dark-universe-lss-large.jpg"
     caption: "Credit: Ralf Kaehler, Carter Emmart, Tom Abel, Oliver Hahn"
