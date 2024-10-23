@@ -21,8 +21,7 @@ Placeholder text
 - _For DES Y3 data access_: See the [Year 3 Cosmology Data Release](https://des.ncsa.illinois.edu/releases/y3a2)
 - For the blue sample datavector
 - For the corresponding sampled polychord chain  
-<code>sample read in code<\code>
-
+<code>sample read in code
 ## Data visualization widgets 
 Explore the data set in your browser to understand how color, redshift, and SED type are related ...
 
