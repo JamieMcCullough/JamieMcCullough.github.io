@@ -30,7 +30,7 @@ fiducial <em>Polychord</em> <mark>chain</mark> <em>(.txt)</em> modeled with no i
 <a class="radius button small" download="chain_blue_noia_hm20tagn76_83.txt" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain_blue_noia_hm20tagn76_83.txt?raw=true"><strong>Download Chain</strong> ›</a><br>  
 </p>
 ### Using the cosmology results: an example
-For an example of ingesting the chain and running a plot, using custom class <code>chain.py</code>, downloadable <a download href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain.py?raw=true">here</a>.
+For an example of ingesting the chain and running a plot, using custom class <code>chain.py</code>, downloadable <a href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain.py?raw=true" download="chain.py">here</a>.
 <pre>
 #some imports, including the custom chain class
 from getdist import plots, MCSamples
