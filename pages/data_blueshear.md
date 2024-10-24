@@ -23,6 +23,7 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
 - For those doing cosmology with the fiducial Y3 blue sample:
       - data vector <em>(a .fits file with redshift distributions and 2-point measurements) download
       - the fiducial <em>Polychord</em> chain modeled with no intrinsic alignment, flexible baryon feedback, and analyzed at all scales download
+
 For an example of ingesting the chain and running a plot, using custom class <code> chain.py  
 <pre>
 from getdist import plots, MCSamples
@@ -30,7 +31,8 @@ import getdist
 from chain import chain
 import numpy as np
 import matplotlib.pyplot as plt
-
+</pre>
+<pre>
 bluenoia = chain('../data_release/chain_blue_noia_hm20tagn76_83.txt')
 bluenoia.add_s8()
 sample = np.array([bluenoia.samples['cosmological_parameters--omega_m'], 
@@ -39,7 +41,8 @@ bluenoia_chain = MCSamples(samples=sample.T,names=['om', 'S8'], labels=['\Omega_
                                    ranges = {'om':[0.1,0.9],'S8':[0.3,1.0]}, label= r'DES Y3 Blue Cosmic Shear', 
                                    weights=bluenoia.weight, settings={'boundary_correction_order':0, 
                                    'mult_bias_correction_order':1})
-    
+</pre>
+<pre>
 #generate an S8 - Om contour plot!
 plt.rcParams['font.family'] = 'serif' 
 g = plots.get_subplot_plotter(width_inch=4)
@@ -52,7 +55,7 @@ plt.ylabel(r'S$_8 \equiv \sigma_8(\Omega_{\rm m}/0.3)^{1/2}$',fontsize=15)
 plt.xlabel(r'$\Omega_{\rm m}$',fontsize=15)
 plt.show()
 </pre>
-
+You ought to generate a contour plot from the chain:
 <img src="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/test_contour.png" alt="" class="center" height=200px width=auto>
 
 ## Data visualization widgets 
