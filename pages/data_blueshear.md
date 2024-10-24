@@ -60,7 +60,7 @@ plt.xlabel(r'$\Omega_{\rm m}$',fontsize=15)
 plt.show()
 </pre>
 You ought to generate a contour plot from the chain:
-<img src="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/test_contour.png?raw=true" alt="" class="center" height=200px width=auto>
+<img src="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/test_contour.png?raw=true" alt="" class="center" height=150px width=auto>
 
 ## Data visualization widgets 
 Explore the data set in your browser to understand how color, redshift, and SED type are related ...
