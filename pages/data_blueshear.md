@@ -64,14 +64,3 @@ plt.show()
 You ought to generate a contour plot from the chain:
 <img src="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/test_contour.png?raw=true" alt="" class="center" height=150px width=auto>
 
-<!--
-## Data visualization widgets 
-Explore the data set in your browser to understand how color, redshift, and SED type are related ...
-
-<div class="row t60">
-    <div class="medium-12 columns b30">
-        <img src="{{ site.urlimg }}pz_dist.png" alt="" class="center">
-        <p style="text-align:center"><a href="[http://jcorneille.de](http://jmccull.github.io/dataproducts_dc3r2/)">Redshift Distributions and SEDs</a></p>
-    </div><!-- /.medium-12.columns -->
-</div><!-- /.row -->
-
