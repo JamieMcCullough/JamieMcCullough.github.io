@@ -52,7 +52,9 @@ plt.ylabel(r'S$_8 \equiv \sigma_8(\Omega_{\rm m}/0.3)^{1/2}$',fontsize=15)
 plt.xlabel(r'$\Omega_{\rm m}$',fontsize=15)
 plt.show()
 </pre>
-<img src="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/test_contour.png" alt="" class="center">
+
+<img src="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/test_contour.png" alt="" class="center" height=200px width=auto>
+
 ## Data visualization widgets 
 Explore the data set in your browser to understand how color, redshift, and SED type are related ...
 
