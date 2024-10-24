@@ -63,6 +63,6 @@ plt.ylabel(r'S$_8 \equiv \sigma_8(\Omega_{\rm m}/0.3)^{1/2}$',fontsize=15)
 plt.xlabel(r'$\Omega_{\rm m}$',fontsize=15)
 plt.show()
 </pre>
-You ought to generate a contour plot from the chain:
+This ought to generate a contour plot from the chain that can be combined with other results:
 <img src="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/test_contour.png?raw=true" alt="" class="center" height=150px width=auto>
 
