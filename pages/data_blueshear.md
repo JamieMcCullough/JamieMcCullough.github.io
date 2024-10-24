@@ -4,7 +4,7 @@ layout: page
 teaser: "Star-forming spiral galaxies have less crowded extragalactic neighborhoods, making them excellent candidates for mapping cosmic structure."
 header:
     title: "Dark Energy Survey Year 3:<br>Blue shear"
-    background-color: "#EFC94C;"
+    background-color: "#212a8b;"
     image_fullwidth: "barred_spiral.jpg"
     caption: "Credit: NASA, ESA, and The Hubble Heritage Team (STScI/AURA)"
     caption_url: https://cdn.esahubble.org/archives/images/large/opo0501a.jpg
