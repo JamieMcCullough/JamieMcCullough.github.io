@@ -11,6 +11,7 @@ header:
 sidebar_mod: left
 permalink: '/data/blueshear/'
 ---
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
 
 ### McCullough <em>et al.</em> 2024
 ## Abstract
