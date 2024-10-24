@@ -27,7 +27,7 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
 </ul>
 
 ### Using the cosmology results: an example
-For an example of ingesting the chain and running a plot, using custom class <code> chain.py  
+For an example of ingesting the chain and running a plot, using custom class <pre> chain.py</pre>, downloadable <a href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain.py?raw=true">here</a>.
 <pre>
 # some imports, including the custom chain class
 from getdist import plots, MCSamples
