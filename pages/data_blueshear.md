@@ -15,7 +15,7 @@ permalink: '/data/blueshear/'
 
 ### McCullough <em>et al.</em> 2024
 ## Abstract
-Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lensing analyses. The Dark Energy Survey, limited to <mark>pure <strong>blue, star-forming galaxies</strong></mark> is expected to be <mark>less impacted by IA</mark>. The cosmological parameter constraints from this <strong>blue</strong> sample are <mark>stable to IA model choice</mark>, unlike the passive galaxies in the full DES Y3 sample, the goodness-of-fit is improved and the $$\Omega_{\rm m}$$ and $$S_8$$ better agree with <em>Planck</em> Cosmic Microwave Background observations. Mitigating intrinsic alignments via sample selection, instead of flexible model choices, can reduce uncertainty in $$S_8$$ <mark>by a factor of 1.5</mark>, with less uncertain IA on small scales.
+Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lensing analyses. The Dark Energy Survey, limited to <mark>pure <strong>blue, star-forming galaxies</strong></mark> is expected to be <mark>less impacted by IA</mark>. The cosmological parameter constraints from this <strong>blue</strong> sample are <mark>stable to IA model choice</mark>, unlike the passive galaxies in the full DES Y3 sample, the goodness-of-fit is improved and the $$\Omega_{\rm m}$$ and $$S_8$$ <mark>better agree with <em>Planck</em> Cosmic Microwave Background observations</mark>. Mitigating intrinsic alignments via sample selection, instead of flexible model choices, can reduce uncertainty in $$S_8$$ <mark>by a factor of 1.5</mark>, with less uncertain IA on small scales.
 
 ## Available data products
 - The paper, <a href="">arxiv</a>, <a href="">PRL</a>
