@@ -23,30 +23,34 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
 - For the blue sample datavector
 - For the corresponding sampled polychord chain  
 <pre>
->>> import getdist
->>> from chain import chain
->>> import numpy as np
+from getdist import plots, MCSamples
+import getdist
+from chain import chain
+import numpy as np
+import matplotlib.pyplot as plt
+
+bluenoia = chain('../data_release/chain_blue_noia_hm20tagn76_83.txt')
+bluenoia.add_s8()
+sample = np.array([bluenoia.samples['cosmological_parameters--omega_m'], 
+                   bluenoia.samples['cosmological_parameters--s8']])
+bluenoia_chain = MCSamples(samples=sample.T,names=['om', 'S8'], labels=['\Omega_m', 'S_8'], 
+                                   ranges = {'om':[0.1,0.9],'S8':[0.3,1.0]}, label= r'DES Y3 Blue Cosmic Shear', 
+                                   weights=bluenoia.weight, settings={'boundary_correction_order':0, 
+                                   'mult_bias_correction_order':1})
     
->>> #Read in the sampled chain
->>> bluenoia = chain('./chain_blue_noia_hm20tagn76_83.txt')
->>> bluenoia.add_s8()
->>> sample = np.array([bluenoia.samples['cosmological_parameters--omega_m'], 
-                      bluenoia.samples['cosmological_parameters--s8']])
->>> bluenoia_chain = getdist.MCSamples(samples=sample.T,names=['om', 'S8'], labels=['\Omega_m', 'S_8'], 
-                                       ranges = {'om':[0.1,0.9],'S8':[0.3,1.0]}, label= r'DES Y3 Blue Cosmic Shear', 
-                                       weights=bluenoia.weight, settings={'boundary_correction_order':0, 
-                                       'mult_bias_correction_order':1})
-    
->>> #generate an S8 - Om contour plot!
->>> g = getdist.plots.get_subplot_plotter()
->>> g.plot_2d([bluenoia_chain], ['om', 'S8'], filled=[True],alphas=[0.9], 
-               contour_args=[{'alpha':1.0,'lw':1.2, 'ls':'-','color':'blue'}], 
-               diag1d_kwargs={'normalized':True})
->>> g.add_legend(labels,fontsize=12,legend_ncol=1, legend_loc='lower center')
->>> plt.ylabel(r'$S_8 \equiv \sigma_8(\Omega_{\rm m}/0.3)^{1/2}$')
->>> plt.xlabel(r'$\Omega_{\rm m}$')
->>> plt.show()
+#generate an S8 - Om contour plot!
+plt.rcParams['font.family'] = 'serif' 
+g = plots.get_subplot_plotter(width_inch=4)
+g.plot_2d([bluenoia_chain], ['om', 'S8'], filled=[True], 
+           contour_args=[{'alpha':0.5,'lw':1.2, 'ls':'-','color':'blue'}], 
+           diag1d_kwargs={'normalized':True})
+
+g.add_legend(['DES Y3\nBlue Cosmic Shear'],fontsize=10,legend_ncol=1, legend_loc='upper right',framealpha=0)
+plt.ylabel(r'S$_8 \equiv \sigma_8(\Omega_{\rm m}/0.3)^{1/2}$',fontsize=15)
+plt.xlabel(r'$\Omega_{\rm m}$',fontsize=15)
+plt.show()
 </pre>
+
 ## Data visualization widgets 
 Explore the data set in your browser to understand how color, redshift, and SED type are related ...
 
