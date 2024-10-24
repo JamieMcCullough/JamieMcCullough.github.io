@@ -20,8 +20,10 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
 ## Available data products
 - The paper, <a href="">arxiv</a>, <a href="">PRL</a>
 - _For DES Y3 data access_: See the [Year 3 Cosmology Data Release](https://des.ncsa.illinois.edu/releases/y3a2)
-- For the blue sample datavector
-- For the corresponding sampled polychord chain  
+- For those doing cosmology with the fiducial Y3 blue sample:
+      - data vector <em>(a .fits file with redshift distributions and 2-point measurements) download
+      - the fiducial <em>Polychord</em> chain modeled with no intrinsic alignment, flexible baryon feedback, and analyzed at all scales download
+For an example of ingesting the chain and running a plot, using custom class <code> chain.py  
 <pre>
 from getdist import plots, MCSamples
 import getdist
@@ -50,7 +52,7 @@ plt.ylabel(r'S$_8 \equiv \sigma_8(\Omega_{\rm m}/0.3)^{1/2}$',fontsize=15)
 plt.xlabel(r'$\Omega_{\rm m}$',fontsize=15)
 plt.show()
 </pre>
-
+<img src="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/test_contour.png" alt="" class="center">
 ## Data visualization widgets 
 Explore the data set in your browser to understand how color, redshift, and SED type are related ...
 
