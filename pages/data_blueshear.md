@@ -23,12 +23,12 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
 - For those doing cosmology with the fiducial Y3 blue sample:
 <p style="text-align: center;">
 <mark>data vector</mark> <em>(a .fits file with redshift distributions and 2-point measurements)</em><br>
-<a class="radius button small" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/2pt_extended_data_blue_covupdated_at_3x2pt-cosmo.fits?raw=true"><strong>Download FITS</strong> ›</a><br>   
+<a class="radius button small" download href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/2pt_extended_data_blue_covupdated_at_3x2pt-cosmo.fits?raw=true"><strong>Download FITS</strong> ›</a><br>   
 the fiducial <em>Polychord</em> <mark>chain</mark> modeled with no intrinsic alignment, flexible baryon feedback, and analyzed at all scales<br>
-<a class="radius button small" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain_blue_noia_hm20tagn76_83.txt?raw=true"><strong>Download Chain</strong> ›</a><br>  
+<a class="radius button small" download href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain_blue_noia_hm20tagn76_83.txt?raw=true"><strong>Download Chain</strong> ›</a><br>  
 </p>
 ### Using the cosmology results: an example
-For an example of ingesting the chain and running a plot, using custom class <code>chain.py</code>, downloadable <a href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain.py?raw=true">here</a>.
+For an example of ingesting the chain and running a plot, using custom class <code>chain.py</code>, downloadable <a download href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain.py?raw=true">here</a>.
 <pre>
 #some imports, including the custom chain class
 from getdist import plots, MCSamples
