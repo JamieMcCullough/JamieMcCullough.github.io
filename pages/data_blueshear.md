@@ -22,8 +22,8 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
 - The paper, <a href="">arxiv</a>, <a href="">PRL</a>
 - _For DES Y3 data access_: See the [Year 3 Cosmology Data Release](https://des.ncsa.illinois.edu/releases/y3a2)
 - For those doing cosmology with the fiducial Y3 blue sample:
-      + data vector <em>(a .fits file with redshift distributions and 2-point measurements)</em> download
-      + the fiducial <em>Polychord</em> chain modeled with no intrinsic alignment, flexible baryon feedback, and analyzed at all scales download
+      + <mark>data vector</mark> <em>(a .fits file with redshift distributions and 2-point measurements)</em> <a class="radius button small" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/2pt_extended_data_blue_covupdated_at_3x2pt-cosmo.fits?raw=true"><strong>Download</strong> ›</a> 
+      + the fiducial <em>Polychord</em> <mark>chain</mark> modeled with no intrinsic alignment, flexible baryon feedback, and analyzed at all scales <a class="radius button small" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain_blue_noia_hm20tagn76_83.txt?raw=true"><strong>Download</strong> ›</a> 
 </ul>
 
 ### Using the cosmology results: an example
