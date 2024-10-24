@@ -18,17 +18,21 @@ permalink: '/data/blueshear/'
 Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lensing analyses. The Dark Energy Survey, limited to <mark>pure <strong>blue, star-forming galaxies</strong></mark> is expected to be <mark>less impacted by IA</mark>. The cosmological parameter constraints from this <strong>blue</strong> sample are <mark>stable to IA model choice</mark>, unlike the passive galaxies in the full DES Y3 sample, the goodness-of-fit is improved and the $$\Omega_{\rm m}$$ and $$S_8$$ <mark>better agree with <em>Planck</em> Cosmic Microwave Background observations</mark>. Mitigating intrinsic alignments via sample selection, instead of flexible model choices, can reduce uncertainty in $$S_8$$ <mark>by a factor of 1.5</mark>, with less uncertain IA on small scales.
 
 ## Available data products
+<ul></ul>
 - The paper, <a href="">arxiv</a>, <a href="">PRL</a>
 - _For DES Y3 data access_: See the [Year 3 Cosmology Data Release](https://des.ncsa.illinois.edu/releases/y3a2)
 - For those doing cosmology with the fiducial Y3 blue sample:
-      - data vector <em>(a .fits file with redshift distributions and 2-point measurements) download
-      - the fiducial <em>Polychord</em> chain modeled with no intrinsic alignment, flexible baryon feedback, and analyzed at all scales download
+      + data vector <em>(a .fits file with redshift distributions and 2-point measurements)</em> download
+      + the fiducial <em>Polychord</em> chain modeled with no intrinsic alignment, flexible baryon feedback, and analyzed at all scales download
+</ul>
 
+### Using the cosmology results: an example
 For an example of ingesting the chain and running a plot, using custom class <code> chain.py  
 <pre>
+# some imports, including the custom chain class
 from getdist import plots, MCSamples
 import getdist
-from chain import chain
+from chain import chain #place in same directory
 import numpy as np
 import matplotlib.pyplot as plt
 </pre>
