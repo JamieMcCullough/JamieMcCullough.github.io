@@ -52,31 +52,31 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
   <tbody>
     <tr>
       <td>1</td>
-      <td>x</td>
-      <td>x</td>
-      <td>x</td>
-      <td>x</td>
+      <td>0.3556</td>
+      <td>0.018</td>
+      <td>-0.0129</td>
+      <td>0.0091</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>x</td>
-      <td>x</td>
-      <td>x</td>
-      <td>x</td>
+      <td>0.5175</td>
+      <td>0.015</td>
+      <td>-0.0180</td>
+      <td>0.0078</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>x</td>
-      <td>x</td>
-      <td>x</td>
-      <td>x</td>
+      <td>0.6994</td>
+      <td>0.011</td>
+      <td>-0.0203</td>
+      <td>0.0076</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>x</td>
-      <td>x</td>
-      <td>x</td>
-      <td>x</td>
+      <td>0.8994</td>
+      <td>0.017</td>
+      <td>-0.0356</td>
+      <td>0.0076</td>
     </tr>
   </tbody>
 </table>
