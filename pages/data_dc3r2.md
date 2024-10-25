@@ -1,7 +1,7 @@
 ---
 layout: page
 #title:  "DESI Complete Calibration of the Color-Redshift Relation (DC3R2)"
-teaser: "Disentangling galaxy evolution from galaxy distance"
+teaser: "Disentangling galaxy evolution from galaxy distance requires us to catalog millions of galaxies' spectroscopically as well as their colors."
 header:
     title: "<h6 style='color:white;font-size: 2rem;'>DESI Complete Calibration of the Color-Redshift Relation (DC3R2)</h6>"
     background-color: "#0b0b16;"
