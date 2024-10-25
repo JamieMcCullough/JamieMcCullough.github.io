@@ -3,7 +3,7 @@ layout: page
 #title:  "DESI Complete Calibration of the Color-Redshift Relation (DC3R2)"
 teaser: "Disentangling galaxy evolution from galaxy distance"
 header:
-    title: "<h4>DESI Complete Calibration of the Color-Redshift Relation</h4>"
+    title: "<font color="white"><h5>DESI Complete Calibration of the Color-Redshift Relation</h5></font>"
     background-color: "#0b0b16;"
     image_fullwidth: "desi_3duniverse.gif"
     caption: "Credit: D. Schlegel/Berkeley Lab using data from DESI"
