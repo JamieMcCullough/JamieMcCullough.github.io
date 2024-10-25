@@ -18,7 +18,7 @@ title:  "Research Projects"
 
     <div class="medium-4 columns b15">
         <img src="https://lsstdesc.org/assets/img/logo.png" alt="Credit: LSST/DESC" height=200px width=auto class="center">
-        <p style="text-align:center">Project leading the development of property driven intrinsic alignment models in the <a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a>.<br>McCullough <em>et al.</em> (in prep)</p>
+        <p style="text-align:center">Galaxy property and data driven intrinsic alignment models in the <a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a>.<br>McCullough <em>et al.</em> (in prep)</p>
     </div><!-- /.medium-4.columns -->
     
 </div><!-- /.row -->
