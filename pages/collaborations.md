@@ -5,7 +5,7 @@ permalink: /research/collaborations/
 subheadline:  "Research / Collaborations"
 title:  "Research Groups"
 ---
-<style>.circular--square { border-radius: 50%; display: block; margin-left: auto; margin-right: auto; width: 50%;}</style>
+<style>.circular--square { border-radius: 50%; display: block; margin-left: auto; margin-right: auto;}</style>
 
 <div class="row t60">
     <div class="medium-6 columns b15">
