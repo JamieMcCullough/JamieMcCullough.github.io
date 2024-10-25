@@ -8,20 +8,20 @@ title:  "Research Groups"
 <style>.circular--square { border-radius: 50%; display: block; margin-left: auto; margin-right: auto;}</style>
 
 <div class="row t30">
-    <div class="medium-12 columns b15">
+    <div class="medium-4 columns b15">
         <img src="https://web.astro.princeton.edu/sites/g/files/toruqf1486/files/styles/3x4_750w_1000h/public/2023-10/alex.jpg?itok=RwR89BEe" alt="" height=auto width=200px class="circular--square">
         <p style="text-align:center"><a href="https://alexandraamon.com/">Lensing@Princeton<br>with Alexandra Amon</a></p>
-    </div><!-- /.medium-12.columns -->
+    </div><!-- /.medium-4.columns -->
 
-    <div class="medium-12 columns b15">
+    <div class="medium-4 columns b15">
         <img src="https://cms-cdn.lmu.de/media/17-physik/17-observatory/photos/webbs_first_deep_field_1_1_format_l.jpg" alt="Credit: ACAI" height=auto width=270px class="circular--square">
         <p style="text-align:center">The <a href="https://www.desi.lbl.gov/">The Astrophysics, Cosmology, and Artificial Intelligence<br>(ACAI) group at LMU Munich</a></p>
-    </div><!-- /.medium-12.columns -->
+    </div><!-- /.medium-4.columns -->
 
-    <div class="medium-12 columns b15">
+    <div class="medium-4 columns b15">
         <img src="https://www.slac.stanford.edu/~roodman/img/RoodmanAaron_BW.jpg" alt="" height=auto width=270px class="circular--square">
         <p style="text-align:center"><a href="https://www.slac.stanford.edu/~roodman/index.html">Experimental Cosmology<br>with Aaron Roodman</a></p>
-    </div><!-- /.medium-12.columns -->
+    </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 <h1>Scientific Collaborations</h1>
 <div class="row t60">
