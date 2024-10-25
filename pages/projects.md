@@ -35,6 +35,6 @@ title:  "Research Projects"
 
     <div class="medium-4 columns b15">
         <img src="https://www.darkenergysurvey.org/wp-content/uploads/2020/12/image_sims_figure-1024x506.png" alt="" height=auto width=300px class="center">
-        <p style="text-align:center">Shear calibration from image simulations with <a href="https://www.darkenergysurvey.org/">Dark Energy Survey (DES)</a> Y3 Cosmology <a href="https://www.darkenergysurvey.org/des-year-3-cosmology-results-papers/">results</a><br><a href="https://academic.oup.com/mnras/article-abstract/509/3/3371/6385771">MacCrann, Becker, & McCullough <em>et al.</em> 2021</a></p>
+        <p style="text-align:center">Understanding shear bias -- the relationship between shape and graviational shear -- in the presence of galaxy-galaxy blending with image simulations for the <a href="https://www.darkenergysurvey.org/">Dark Energy Survey (DES)</a> Y3 Cosmology <a href="https://www.darkenergysurvey.org/des-year-3-cosmology-results-papers/">results</a>.<br><a href="https://academic.oup.com/mnras/article-abstract/509/3/3371/6385771">MacCrann, Becker, & McCullough <em>et al.</em> 2021</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
