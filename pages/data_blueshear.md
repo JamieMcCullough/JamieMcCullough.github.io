@@ -34,9 +34,11 @@ For more information, see Table I in the paper. These galaxies have different re
 <table>
   <caption>&lt;table&gt; defines an HTML table</caption>
   <colgroup>
-    <col span="1" style="width: 15%;">
-    <col span="1" style="width: 50%;">
-    <col span="1" style="width: 35%;">
+    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 20%;">
   </colgroup>
   <thead>
     <tr>
@@ -50,8 +52,10 @@ For more information, see Table I in the paper. These galaxies have different re
   <tbody>
     <tr>
       <td>1</td>
-      <td>defines a table caption</td>
-      <td><code>font-weight: bold;</code></td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
     </tr>
     <tr>
       <td>2;</td>
