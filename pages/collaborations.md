@@ -3,8 +3,20 @@ layout: page-fullwidth
 header: no
 permalink: /research/collaborations/
 subheadline:  "Research / Collaborations"
-title:  "Scientific Collaborations"
+title:  "Research Groups"
 ---
+<div class="row t60">
+    <div class="medium-6 columns b15">
+        <img src="https://web.astro.princeton.edu/sites/g/files/toruqf1486/files/styles/3x4_750w_1000h/public/2023-10/alex.jpg?itok=RwR89BEe" alt="" height=auto width=300px class="rounded">
+        <p style="text-align:center">The <a href="https://alexandraamon.com/">Lensing@Princeton<br>with Alexandra Amon</a>.</p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-6 columns b15">
+        <img src="https://cms-cdn.lmu.de/media/17-physik/17-observatory/photos/webbs_first_deep_field_1_1_format_l.jpg" alt="Credit: ACAI" height=auto width=370px class="rounded">
+        <p style="text-align:center">The <a href="https://www.desi.lbl.gov/">The Astrophysics, Cosmology, and Artificial Intelligence (ACAI)<br>group at LMU Munich</a>.</p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+<h1>Scientific Collaborations</h1>
 <div class="row t60">
     <div class="medium-6 columns b15">
         <img src="https://noirlab.edu/public/media/archives/logos/screen/logo044.jpg" alt="Credit: NOIRLab" height=auto width=300px class="center">
