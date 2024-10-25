@@ -7,7 +7,7 @@ title:  "Research Groups"
 ---
 <div class="row t60">
     <div class="medium-6 columns b15">
-        <img src="https://web.astro.princeton.edu/sites/g/files/toruqf1486/files/styles/3x4_750w_1000h/public/2023-10/alex.jpg?itok=RwR89BEe" alt="" height=200px width=auto class="center">
+        <img src="https://web.astro.princeton.edu/sites/g/files/toruqf1486/files/styles/3x4_750w_1000h/public/2023-10/alex.jpg?itok=RwR89BEe" alt="" height=auto width=150px class="center">
         <p style="text-align:center"><a href="https://alexandraamon.com/">Lensing@Princeton<br>with Alexandra Amon</a>.</p>
     </div><!-- /.medium-6.columns -->
 
