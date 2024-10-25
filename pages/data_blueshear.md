@@ -31,7 +31,7 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
 </p>
 ### Calibration for the blue sample
 <table>
-  <caption>For more information, see Table I in the paper. These galaxies have different redshift distributions and shear calibration than the fiducial Y3 analysis. You can see the changes summarized here.</caption>
+  <caption>These galaxies have different redshift distributions and shear calibration than the fiducial Y3 analysis. You can see the changes summarized here. For more information, see Table I in the paper.</caption>
   <colgroup>
     <col span="1" style="width: 20%;">
     <col span="1" style="width: 20%;">
