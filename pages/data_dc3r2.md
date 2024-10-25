@@ -4,8 +4,8 @@ layout: page
 teaser: "Disentangling galaxy evolution from galaxy distance"
 header:
     title: DESI Complete Calibration of the Color-Redshift Relation
-    background-color: "#EFC94C;"
-    image_fullwidth: "desi_3duniverse.gif"
+    background-color: "#0b0b16;"
+    image: "desi_3duniverse.gif"
     caption: "Credit: D. Schlegel/Berkeley Lab using data from DESI"
     caption_url: https://newscenter.lbl.gov/2022/01/13/dark-energy-spectroscopic-instrument-desi-creates-largest-3d-map-of-the-cosmos/
 sidebar_mod: left
