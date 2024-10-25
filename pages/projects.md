@@ -7,11 +7,6 @@ title:  "Research Projects"
 ---
 <div class="row t60">
     <div class="medium-4 columns b15">
-        <img src="https://www.darkenergysurvey.org/wp-content/uploads/2020/12/image_sims_figure-1024x506.png" alt="" height=auto width=300px class="center">
-        <p style="text-align:center">Shear calibration from image simulations with <a href="https://www.darkenergysurvey.org/">Dark Energy Survey (DES)</a> Y3 Cosmology <a href="https://www.darkenergysurvey.org/des-year-3-cosmology-results-papers/">results</a><br><a href="https://academic.oup.com/mnras/article-abstract/509/3/3371/6385771">MacCrann, Becker, & McCullough <em>et al.</em> 2021</a></p>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns b15">
         <img src="https://phyweb.lbl.gov/~rncahn/www/desi.jpg" alt="Credit: DESI" height=auto width=370px class="center">
         <p style="text-align:center">Direct measurement of galaxy intrinsic alignment with the <a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>.<br>McCullough <em>et al.</em> (in prep.)</p>
     </div><!-- /.medium-4.columns -->
@@ -20,13 +15,13 @@ title:  "Research Projects"
         <img src="https://lsstdesc.org/assets/img/logo.png" alt="Credit: LSST/DESC" height=200px width=auto class="center">
         <p style="text-align:center">Galaxy property and data driven intrinsic alignment models in the <a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a>.<br>McCullough <em>et al.</em> (in prep)</p>
     </div><!-- /.medium-4.columns -->
-    
-</div><!-- /.row -->
-<div class="row t60">
-    <div class="medium-4 columns b15">
+
+     <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}blueshear_summary.png" alt="" height=200px width=auto class="center">
         <p style="text-align:center">A cosmic shear reanalysis selecting on blue galaxies in DES Y3 to probe cosmic structure and mitigate intrinsic alignment. See the <a href="{{site.url}}/data/blueshear/">data release page</a> for more information.<br><a href="">McCullough <em>et al.</em> 2024</a></p>
     </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+<div class="row t60">
 
     <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}4c3r2_messenger_selection.png" alt="" height=200px width=auto class="center">
@@ -36,5 +31,10 @@ title:  "Research Projects"
     <div class="medium-4 columns b15">
         <img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mnras/531/2/10.1093_mnras_stae1316/1/m_stae1316fig5.jpeg?Expires=1732042277&Signature=0EEkZBt-qQR7xL-81G421CZCFMsDN5Pf-1B9Ctw3QF6wW-BDa2gPCfS-dd-rNn9N~Fk9CiJ4sFt9yyPIhvAvrLd-ERPa1VZVLLdjn6BwPaQfIxC7OihnR6dLVyjNBSDJDUhkQYwSfW2c5~1HngdsEy6qLrLLQXECrXDAEwmOPNuXSe6Y3AiodmIKCJIlK73CFDwcRE93tYKrrkAgj0rtLJGjrk-X86yArOexOnsQxGrxB8AzAR0uU2KLiTJAqBU0KK-VWkvzulgFhtyxO3ycTxGMS2I07c1Oik7YiJ2zU51aeuczE8LNecCH5e4a4QfGJDgKKN4JV22CzdPaTFF7TQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Credit: 4MOST" height=200px width=auto class="center">
         <p style="text-align:center">Targeting observations of galaxies to understand the relationship between distance and flux with a spare fiber program on the <a href="https://www.4most.eu/cms/home/">Dark Energy Spectroscopic Instrument (DESI)</a>. See the <a href="{{site.url}}/data/dc3r2/">data release page</a> for more information.<br><a href="https://academic.oup.com/mnras/article/531/2/2582/7686823">McCullough <em>et al.</em> 2024</a></p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns b15">
+        <img src="https://www.darkenergysurvey.org/wp-content/uploads/2020/12/image_sims_figure-1024x506.png" alt="" height=auto width=300px class="center">
+        <p style="text-align:center">Shear calibration from image simulations with <a href="https://www.darkenergysurvey.org/">Dark Energy Survey (DES)</a> Y3 Cosmology <a href="https://www.darkenergysurvey.org/des-year-3-cosmology-results-papers/">results</a><br><a href="https://academic.oup.com/mnras/article-abstract/509/3/3371/6385771">MacCrann, Becker, & McCullough <em>et al.</em> 2021</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
