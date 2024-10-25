@@ -31,20 +31,20 @@ fiducial <em>Polychord</em> <mark>chain</mark> <em>(.txt)</em> modeled with no i
 </p>
 
 ## Major Collaborators
-<div class="row t60">
+<div class="row t30">
     <div class="medium-12 columns b15">
         <img src="https://web.astro.princeton.edu/sites/g/files/toruqf1486/files/styles/3x4_750w_1000h/public/2023-10/alex.jpg?raw=true" alt="" height=auto width=200px class="circular--square">
-        <p style="text-align:center"><a href="https://alexandraamon.com/">Alexandra Amon</a>.</p>
+        <p style="text-align:center"><a href="https://alexandraamon.com/">Alexandra Amon</a></p>
     </div><!-- /.medium-12.columns -->
 
     <div class="medium-12 columns b15">
         <img src="https://elisalegnani.github.io/assets/img/me_23_2.jpg" alt="" height=auto width=200px class="circular--square">
-        <p style="text-align:center"><a href="https://elisalegnani.github.io/">Elisa Legnani</a>.</p>
+        <p style="text-align:center"><a href="https://elisalegnani.github.io/">Elisa Legnani</a></p>
     </div><!-- /.medium-12.columns -->
 
     <div class="medium-12 columns b15">
         <img src="https://www.imprs-astro.mpg.de/sites/default/files/usm_gruen.jpg" alt="" height=auto width=200px class="circular--square">
-        <p style="text-align:center"><a href="https://www.physik.lmu.de/observatory/en/research/cosmology-at-usm/acai-group/">Daniel Gruen</a>.</p>
+        <p style="text-align:center"><a href="https://www.physik.lmu.de/observatory/en/research/cosmology-at-usm/acai-group/">Daniel Gruen</a></p>
     </div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
 
