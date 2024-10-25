@@ -30,9 +30,8 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
 <a class="radius button small" download="chain_blue_noia_hm20tagn76_83.txt" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain_blue_noia_hm20tagn76_83.txt?raw=true"><strong>Download Chain</strong> ›</a><br>  
 </p>
 ### Calibration for the blue sample
-For more information, see Table I in the paper. These galaxies have different redshift distributions and shear calibration than the fiducial Y3 analysis. You can see the changes summarized here:
 <table>
-  <caption>&lt;table&gt; defines an HTML table</caption>
+  <caption>For more information, see Table I in the paper. These galaxies have different redshift distributions and shear calibration than the fiducial Y3 analysis. You can see the changes summarized here.</caption>
   <colgroup>
     <col span="1" style="width: 20%;">
     <col span="1" style="width: 20%;">
@@ -58,21 +57,28 @@ For more information, see Table I in the paper. These galaxies have different re
       <td>x</td>
     </tr>
     <tr>
-      <td>2;</td>
-      <td>specifies a group of one or more columns in a table for 
-formatting. The &lt;colgroup&gt; tag is useful for applying styles to entire columns, instead of repeating the styles for each cell, for each row.</td>
-      <td>no styling needed</td>
+      <td>2</td>
+      <<td>1</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>specifies column properties for each column within a `&lt;colgroup&gt;` 
-element</td>
-      <td>no styling needed</td>
+      <td>1</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>is used to group header content in an HTML table</td>
-      <td><code>font-weight: bold;</code></td>
+      <td>1</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
+      <td>x</td>
     </tr>
 </table>
 
