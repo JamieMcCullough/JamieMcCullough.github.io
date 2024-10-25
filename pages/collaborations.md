@@ -13,7 +13,7 @@ title:  "Research Groups"
 
     <div class="medium-6 columns b15">
         <img src="https://cms-cdn.lmu.de/media/17-physik/17-observatory/photos/webbs_first_deep_field_1_1_format_l.jpg" alt="Credit: ACAI" height=350px width=auto class="center">
-        <p style="text-align:center">The <a href="https://www.desi.lbl.gov/">The Astrophysics, Cosmology, and Artificial Intelligence (ACAI)<br>group at LMU Munich</a>.</p>
+        <p style="text-align:center">The <a href="https://www.desi.lbl.gov/">The Astrophysics, Cosmology, and Artificial Intelligence<br>(ACAI) group at LMU Munich</a>.</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 <h1>Scientific Collaborations</h1>
