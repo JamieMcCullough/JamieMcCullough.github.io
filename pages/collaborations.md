@@ -19,7 +19,7 @@ title:  "Research Groups"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns b15">
-        <img src="https://www.slac.stanford.edu/~roodman/img/RoodmanAaron_BW.jpg" alt="" height=auto width=270px class="circular--square">
+        <img src="https://www.slac.stanford.edu/~roodman/img/RoodmanAaron_BW.jpg" alt="" height=auto width=200px class="circular--square">
         <p style="text-align:center"><a href="https://www.slac.stanford.edu/~roodman/index.html">Experimental Cosmology<br>with Aaron Roodman</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
@@ -32,7 +32,7 @@ title:  "Research Groups"
 
     <div class="medium-6 columns b15">
         <img src="https://phyweb.lbl.gov/~rncahn/www/desi.jpg" alt="Credit: DESI" height=auto width=370px class="center">
-        <p style="text-align:center">The <a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a></p>
+        <p style="text-align:center"><br>The <a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 <div class="row t60">
@@ -43,6 +43,6 @@ title:  "Research Groups"
 
     <div class="medium-6 columns b15">
         <img src="https://chances.uda.cl/wp-content/uploads/2022/09/logo_4most_footer-300x300.png" alt="Credit: 4MOST" height=200px width=auto class="center">
-        <p style="text-align:center">The <a href="https://www.4most.eu/cms/home/">4-metre Multi-Object Spectroscopic Telescope (4MOST)</a></p>
+        <p style="text-align:center"><br>The <a href="https://www.4most.eu/cms/home/">4-metre Multi-Object Spectroscopic Telescope (4MOST)</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
