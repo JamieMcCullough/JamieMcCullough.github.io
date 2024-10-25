@@ -29,7 +29,73 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
 <strong>fiducial <em>Polychord</em> <mark>chain</mark></strong><em>(.txt)</em><br><em>modeled with no intrinsic alignment, flexible baryon feedback, and analyzed at all scales</em><br>
 <a class="radius button small" download="chain_blue_noia_hm20tagn76_83.txt" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain_blue_noia_hm20tagn76_83.txt?raw=true"><strong>Download Chain</strong> ›</a><br>  
 </p>
-
+### Calibration for the blue sample
+For more information, see Table I in the paper. These galaxies have different redshift distributions and shear calibration than the fiducial Y3 analysis. You can see the changes summarized here:
+<table>
+  <caption>&lt;table&gt; defines an HTML table</caption>
+  <colgroup>
+    <col span="1" style="width: 15%;">
+    <col span="1" style="width: 50%;">
+    <col span="1" style="width: 35%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Redshift Bin</th>
+      <th>$$\bar{z}$$</th>
+      <th>$$\Delta \bar{z}$$</th>
+      <th>$$m$$</th>
+      <th>$$\Delta m$$</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&lt;caption&gt;</td>
+      <td>defines a table caption</td>
+      <td><code>font-weight: bold;</code></td>
+    </tr>
+    <tr>
+      <td>&lt;colgroup&gt;</td>
+      <td>specifies a group of one or more columns in a table for 
+formatting. The &lt;colgroup&gt; tag is useful for applying styles to entire columns, instead of repeating the styles for each cell, for each row.</td>
+      <td>no styling needed</td>
+    </tr>
+    <tr>
+      <td>&lt;col&gt;</td>
+      <td>specifies column properties for each column within a `&lt;colgroup&gt;` 
+element</td>
+      <td>no styling needed</td>
+    </tr>
+    <tr>
+      <td>&lt;thead&gt;</td>
+      <td>is used to group header content in an HTML table</td>
+      <td><code>font-weight: bold;</code></td>
+    </tr>
+    <tr>
+      <td>&lt;tbody&gt;</td>
+      <td>is used to group the body content in an HTML table</td>
+      <td>no styling needed</td>
+    </tr>
+    <tr>
+      <td>&lt;tr&gt;</td>
+      <td>defines a row in an HTML table</td>
+      <td>no styling needed</td>
+    </tr>
+    <tr>
+      <td>&lt;th&gt;</td>
+      <td>defines a header cell in an HTML table</td>
+      <td><code>font-weight: bold;</code></td>
+    </tr>
+    <tr>
+      <td>&lt;td&gt;</td>
+      <td>defines a standard cell in an HTML table</td>
+      <td><code>font-weight: normal;</code></td>
+    </tr>
+    <tr>
+      <td>&lt;tfoot&gt;</td>
+      <td>is used to group footer content in an HTML table</td>
+      <td>no styling needed</td>
+    </tr>
+</table>
 ## Major Collaborators
 <div class="row t30">
     <div class="medium-4 columns b15">
