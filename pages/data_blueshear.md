@@ -49,53 +49,29 @@ For more information, see Table I in the paper. These galaxies have different re
   </thead>
   <tbody>
     <tr>
-      <td>&lt;caption&gt;</td>
+      <td>1</td>
       <td>defines a table caption</td>
       <td><code>font-weight: bold;</code></td>
     </tr>
     <tr>
-      <td>&lt;colgroup&gt;</td>
+      <td>2;</td>
       <td>specifies a group of one or more columns in a table for 
 formatting. The &lt;colgroup&gt; tag is useful for applying styles to entire columns, instead of repeating the styles for each cell, for each row.</td>
       <td>no styling needed</td>
     </tr>
     <tr>
-      <td>&lt;col&gt;</td>
+      <td>3</td>
       <td>specifies column properties for each column within a `&lt;colgroup&gt;` 
 element</td>
       <td>no styling needed</td>
     </tr>
     <tr>
-      <td>&lt;thead&gt;</td>
+      <td>4</td>
       <td>is used to group header content in an HTML table</td>
       <td><code>font-weight: bold;</code></td>
     </tr>
-    <tr>
-      <td>&lt;tbody&gt;</td>
-      <td>is used to group the body content in an HTML table</td>
-      <td>no styling needed</td>
-    </tr>
-    <tr>
-      <td>&lt;tr&gt;</td>
-      <td>defines a row in an HTML table</td>
-      <td>no styling needed</td>
-    </tr>
-    <tr>
-      <td>&lt;th&gt;</td>
-      <td>defines a header cell in an HTML table</td>
-      <td><code>font-weight: bold;</code></td>
-    </tr>
-    <tr>
-      <td>&lt;td&gt;</td>
-      <td>defines a standard cell in an HTML table</td>
-      <td><code>font-weight: normal;</code></td>
-    </tr>
-    <tr>
-      <td>&lt;tfoot&gt;</td>
-      <td>is used to group footer content in an HTML table</td>
-      <td>no styling needed</td>
-    </tr>
 </table>
+
 ## Major Collaborators
 <div class="row t30">
     <div class="medium-4 columns b15">
