@@ -30,6 +30,7 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
 <a class="radius button small" download="chain_blue_noia_hm20tagn76_83.txt" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain_blue_noia_hm20tagn76_83.txt?raw=true"><strong>Download Chain</strong> ›</a><br>  
 </p>
 ### Calibration for the blue sample
+<p style="text-align: center;">
 <table>
   <caption>These galaxies have different redshift distributions and shear calibration than the fiducial Y3 analysis. You can see the changes summarized here.<tfoot>For more information, see Table I in the paper.</tfoot></caption>
   <colgroup>
@@ -79,7 +80,7 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
     </tr>
   </tbody>
 </table>
-
+</p>
 ## Major Collaborators
 <div class="row t30">
     <div class="medium-4 columns b15">
