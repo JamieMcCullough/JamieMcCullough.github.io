@@ -33,7 +33,7 @@ fiducial <em>Polychord</em> <mark>chain</mark> <em>(.txt)</em> modeled with no i
 ## Major Collaborators
 <div class="row t60">
     <div class="medium-12 columns b15">
-        <img src="https://web.astro.princeton.edu/sites/g/files/toruqf1486/files/styles/3x4_750w_1000h/public/2023-10/alex.jpg?raw=true" alt="" height=auto width=200px class={object-fit: cover; border-radius: 50%;}>
+        <img src="https://web.astro.princeton.edu/sites/g/files/toruqf1486/files/styles/3x4_750w_1000h/public/2023-10/alex.jpg?raw=true" alt="" height=auto width=200px object-fit=cover border-radius=50% class="center">
         <p style="text-align:center"><a href="https://alexandraamon.com/">Alexandra Amon</a>.</p>
     </div><!-- /.medium-12.columns -->
 
