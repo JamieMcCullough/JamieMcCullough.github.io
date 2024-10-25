@@ -38,12 +38,12 @@ fiducial <em>Polychord</em> <mark>chain</mark> <em>(.txt)</em> modeled with no i
     </div><!-- /.medium-12.columns -->
 
     <div class="medium-12 columns b15">
-        <img src="https://elisalegnani.github.io/assets/img/me_23_2.jpg" alt="" height=auto width=200px class="center">
+        <img src="https://elisalegnani.github.io/assets/img/me_23_2.jpg" alt="" height=auto width=200px class="circular--square">
         <p style="text-align:center"><a href="https://elisalegnani.github.io/">Elisa Legnani</a>.</p>
     </div><!-- /.medium-12.columns -->
 
     <div class="medium-12 columns b15">
-        <img src="https://www.imprs-astro.mpg.de/sites/default/files/usm_gruen.jpg" alt="" height=auto width=200px class="center">
+        <img src="https://www.imprs-astro.mpg.de/sites/default/files/usm_gruen.jpg" alt="" height=auto width=200px class="circular--square">
         <p style="text-align:center"><a href="https://www.physik.lmu.de/observatory/en/research/cosmology-at-usm/acai-group/">Daniel Gruen</a>.</p>
     </div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
