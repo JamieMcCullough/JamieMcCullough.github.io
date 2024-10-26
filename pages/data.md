@@ -12,7 +12,7 @@ widget1:
   image: pz_dist.png
   
 widget2:
-  title: "Dark Energy Survey Y3: Blue shear"
+  title: "<br>Dark Energy Survey Y3: Blue shear"
   url: '/data/blueshear/'
   image: barred_spiral.jpg
   text: 'Get access to the selection, data vector, chains, and calibration for the blue cosmic shear sample for DES Y3.'
