@@ -12,7 +12,7 @@
 {% capture widget_image %}{% if include.widget.image contains 'http' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}{% endcapture %}
 
 
-<div class="medium-12 columns frontpage-widget">
+<div class="medium-6 columns frontpage-widget">
 	{% if include.widget.video %}
 		{{ include.widget.video }}
 	{% elsif widget_url == empty %}
