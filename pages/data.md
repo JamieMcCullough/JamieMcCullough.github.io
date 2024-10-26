@@ -16,11 +16,5 @@ widget2:
   url: '/data/blueshear/'
   image: barred_spiral.jpg
   text: 'Get access to the selection, data vector, chains, and calibration for the blue cosmic shear sample for DES Y3.'
-
-#widget3:
-#  title: "Teaching"
-#  url: '/visualization/figures/'
-#  text: 'I have created a number of didactic figures to explain astrophysical phenomena that scientists and students alike are welcome to use in any context.'
-#  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 ---
-For the science of the published papers to be maximally useful, you can find links to explore the measurements or download relevant data for your own research.
+<h5>For the science of the published papers to be maximally useful, you can find links to explore the measurements or download relevant data for your own research.</h5>
