@@ -3,7 +3,8 @@ layout: frontpage_mod
 permalink: "/visualization/"
 header:
   image_fullwidth: rubin.jpeg
-  #caption: Image credit: Rubin Observatory/NSF/AURA/B. Quint
+  title: "Science Communication"
+  caption: Image credit: Rubin Observatory/NSF/AURA/B. Quint
 
 widget1:
   title: "Visualizations"
