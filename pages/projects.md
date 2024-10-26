@@ -25,7 +25,7 @@ title:  "Research Projects"
 
     <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}4c3r2_messenger_selection.png" alt="" height=200px width=auto class="center">
-        <p style="text-align:center">Co-Principal Investigator of the 4MOST Complete Calibration of the Color-Redshift Relation (4C3R2) survey on the <a href="https://www.4most.eu/cms/home/">4-metre Multi-Object Spectroscopic Telescope (4MOST)</a>.<br><br><a href="https://www.eso.org/sci/publications/messenger/archive/no.190-mar23/messenger-no190-28-30.pdf">Gruen & McCullough <em>et al.</em> 2023</a><br>McCullough <em>et al.</em> (in prep.)</p>
+        <p style="text-align:center">Co-Principal Investigator of the 4MOST Complete Calibration of the Color-Redshift Relation (4C3R2) survey on the <a href="https://www.4most.eu/cms/home/">4-metre Multi-Object Spectroscopic Telescope (4MOST)</a>.<br><br><a href="https://www.eso.org/sci/publications/messenger/archive/no.190-mar23/messenger-no190-28-30.pdf#toolbar=0">Gruen & McCullough <em>et al.</em> 2023</a><br>McCullough <em>et al.</em> (in prep.)</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns b15">
