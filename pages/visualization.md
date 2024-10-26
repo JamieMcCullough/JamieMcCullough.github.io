@@ -14,7 +14,7 @@ widget1:
 widget2:
   title: "Outreach & Talks"
   url: '/research/'
-  image: widget-1-302x182.jpg
+  image: thesistalk.jpg
   text: 'Find resources to teach about cosmology, as well as archived talks.'
 
 #widget3:
