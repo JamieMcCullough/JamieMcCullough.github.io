@@ -10,6 +10,18 @@ header:
     image_fullwidth: "dark-universe-lss-large.jpg"
     caption: "Credit: Ralf Kaehler, Carter Emmart, Tom Abel, Oliver Hahn"
     caption_url: https://www.slac.stanford.edu/~kaehler/homepage/visualizations/images/
+
+widget1:
+  title: "Research Projects and Papers"
+  url: '/research/projects/'
+  text: 'See a summary of the projects I work on to improve our measurements of cosmic structure.'
+  image: research_widget.png
+  
+widget2:
+  title: "Groups and Collaboration"
+  url: '/research/collaborations/'
+  image: Bild0004_neg.Nr.N4.jpg
+  text: 'Find information about the research groups and international collaborations I work with.'
 ---
 <h1>This page is still under construction!</h1>
 <h1>What is Weak Gravitational Lensing?</h1>
