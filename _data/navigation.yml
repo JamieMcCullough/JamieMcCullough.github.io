@@ -16,7 +16,7 @@
     url: "/research/collaborations/"
 
 - title: "Science Communication"
-  #url: "/visualization/"
+  url: "/visualization/"
   side: left
   dropdown:
   - title: "Visualizations"
