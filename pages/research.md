@@ -20,7 +20,7 @@ widget1:
 widget2:
   title: "Groups and Collaboration"
   url: '/research/collaborations/'
-  image: Bild0004_neg.Nr.N4.jpg
+  image: Bild004_Neg.Nr.N4.jpg
   text: 'Find information about the research groups and international collaborations I work with.'
 ---
 <h1>This page is still under construction!</h1>
