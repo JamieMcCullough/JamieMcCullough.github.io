@@ -16,7 +16,7 @@
     url: "/research/collaborations/"
 
 - title: "Gallery and Outreach"
-  url: "/visualization/"
+  #url: "/visualization/"
   side: left
   dropdown:
   - title: "Visualizations"
