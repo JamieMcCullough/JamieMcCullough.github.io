@@ -21,7 +21,7 @@
   dropdown:
   - title: "Visualizations"
     url: "/visualization/figures/"
-  - title: "Tools for Outreach"
+  - title: "Talks & Outreach"
     url: "/visualization/outreach/"
 
 - title: "Data"
