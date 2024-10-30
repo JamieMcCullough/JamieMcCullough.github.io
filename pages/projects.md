@@ -18,7 +18,7 @@ title:  "Research Projects"
 
      <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}blueshear_summary.png" alt="" height=200px width=auto class="center">
-        <p style="text-align:center">A cosmic shear reanalysis selecting on blue galaxies in DES Y3 to probe cosmic structure and mitigate intrinsic alignment. See the <a href="{{site.url}}/data/blueshear/">data release page</a>.<br><br><a href="">McCullough <em>et al.</em> 2024</a></p>
+        <p style="text-align:center">A cosmic shear reanalysis selecting on blue galaxies in DES Y3 to probe cosmic structure and mitigate intrinsic alignment. See the <a href="{{site.url}}/data/blueshear/">data release page</a>.<br><br><a href="https://arxiv.org/abs/2410.22272">McCullough <em>et al.</em> 2024</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 <div class="row t60">
