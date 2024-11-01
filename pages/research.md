@@ -29,13 +29,12 @@ widget2:
 </p><br>
 <strong>Gravitational lensing</strong> is what we call the <strong>distortion of light around massive structures as it travels through the curved spacetime that mass imparts</strong>. The most dramatic distortions happen around incredibly massive galaxy clusters and halos (see the example visuals <a href="{{site.url}}visualization/figures/">here</a>). _Weak_ gravitational lensing uses the tiny distortions (~1% change in shape) of millions (and soon billions) of galaxy shapes not around massive galaxies but about huge cosmic filaments to trace the <strong>large-scale structure of the universe</strong>. Most of that structure comes from dark matter, which outnumbers ordinary matter 5 to 1, and so it is invisible to our eyes and telescopes. Lensing indirectly traces the gravitational impact of these massive cosmic filaments and tells us about the nature of dark matter, dark energy, and the structure of the universe over cosmic time. <br>
 In order to perform weak lensing well, we need:
-<ul>
-    - excellent **shape measurements** of millions of galaxies
-    - well-understood **distributions of distances** for ensembles of those galaxies
-    - a model for how much of the galaxy shape-shape correlation comes from their **_intrinsic_ alignment**
-    - a model for the **astrophysical feedback** mechanisms (supernovae and jets from supermassive black holes) that redistributes ordinary matter on small scales
-    - simulations that **calibrate the relationship** between galaxy** shape and gravitational shear**
-</ul>
+
+- excellent **shape measurements** of millions of galaxies
+- well-understood **distributions of distances** for ensembles of those galaxies
+- a model for how much of the galaxy shape-shape correlation comes from their **_intrinsic_ alignment**
+- a model for the **astrophysical feedback** mechanisms (supernovae and jets from supermassive black holes) that redistributes ordinary matter on small scales
+- simulations that **calibrate the relationship** between galaxy** shape and gravitational shear**
 
 <h2>How do we get distances to extragalactic sources?</h2>
 <p style="text-align:center;">
