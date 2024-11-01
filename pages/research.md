@@ -23,10 +23,9 @@ widget2:
   image: Bild004_Neg.Nr.N4.jpg
   text: 'Find information about the research groups and international collaborations I work with.'
 ---
-<h1>This page is still under construction!</h1>
 <h1>What is Weak Gravitational Lensing?</h1>
 <img src="{{site.urlimg}}weak_lensing_blender.gif" width=500px height=auto>
-Gravitational lensing is what we call the distortion of light around massive structures as it travels through the curved spacetime that mass imparts. _Weak_ gravitational lensing uses the tiny distortions (~1% change in shape) of millions (and soon billions) of galaxy shapes to trace the large-scale structure of the universe. Most of that structure comes from dark matter, which outnumbers ordinary matter 5 to 1, and so it is invisible to our eyes and telescopes. Lensing indirectly traces the gravitational impact of these massive cosmic filaments and tells us about the nature of dark matter, dark energy, and the structure of the universe over cosmic time.
+Gravitational lensing is what we call the distortion of light around massive structures as it travels through the curved spacetime that mass imparts. The most dramatic distortions happen around incredibly massive galaxy clusters and halos (see the example visuals <a href="{{site.url}}visualization/figures/">here</a>). _Weak_ gravitational lensing uses the tiny distortions (~1% change in shape) of millions (and soon billions) of galaxy shapes to trace the large-scale structure of the universe. Most of that structure comes from dark matter, which outnumbers ordinary matter 5 to 1, and so it is invisible to our eyes and telescopes. Lensing indirectly traces the gravitational impact of these massive cosmic filaments and tells us about the nature of dark matter, dark energy, and the structure of the universe over cosmic time.
 
 <h2>What are photometric redshifts? How do we get them?</h2>
 Some text and figures, high level summary
