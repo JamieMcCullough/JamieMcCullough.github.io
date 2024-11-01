@@ -30,7 +30,16 @@ format: frontpage_mod
 		{% endif %}
 </div>-->
 
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
 
+<div class="row">
+	<br>
+    {{ content }}
+</div><!-- /.row -->
 
 {% comment %}
 *
@@ -49,15 +58,3 @@ format: frontpage_mod
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-	<br>
-    {{ content }}
-</div><!-- /.row -->
