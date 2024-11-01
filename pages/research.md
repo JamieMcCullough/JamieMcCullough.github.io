@@ -1,5 +1,5 @@
 ---
-layout: frontpage_mod
+layout: frontpage_mod_upfront
 show_meta: false
 #title: "Research:<br>Charting Cosmic Structure"
 permalink: "/research/"
