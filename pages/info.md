@@ -15,7 +15,7 @@ I completed my PhD in physics at Stanford and Ludwig Maximilians Universitaet Mu
     <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/files/CV_forweb_2024.pdf"><em>Curriculum Vitae</em> ›</a> <br/>
     <a class="radius button small" href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-4475-3456&sort=date+desc">See some of my papers on <strong>NASA ADS</strong> ›</a>  
 </p>
-Read my dissertation: <a href="https://purl.stanford.edu/gw828xb5995">_Charting cosmic structure: Untangling weak lensing with spectroscopy and color_</a>  
+Want to read my dissertation?<br><a href="https://purl.stanford.edu/gw828xb5995">_Charting cosmic structure: Untangling weak lensing with spectroscopy and color_</a>  
 ![image]({{ site.url }}/images/Bild004_Neg.Nr.N4.jpg)
 The [Astrophysics, Cosmology, and Artificial Intelligence (ACAI)][4] research group at Wendelstein observatory.
 ![image]({{ site.url }}/images/affiliations.png)
