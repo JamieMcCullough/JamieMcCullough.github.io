@@ -38,7 +38,7 @@ Explore the data set in your browser to understand how color, redshift, and SED 
 <div class="row t60">
     <div class="medium-12 columns b30">
         <img src="{{ site.urlimg }}pz_dist.png" alt="" class="center">
-        <p style="text-align:center"><a href="[http://jcorneille.de](http://jmccull.github.io/dataproducts_dc3r2/)">Redshift Distributions and SEDs</a></p>
+        <p style="text-align:center"><a href="http://jmccull.github.io/dataproducts_dc3r2/">Redshift Distributions and SEDs</a></p>
     </div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
 <div class="row t60">
