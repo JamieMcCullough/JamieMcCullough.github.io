@@ -13,7 +13,7 @@ title:  "Resources for Outreach"
 
     <div class="medium-6 columns b15">
         <img src="{{site.urlimg}}lensing_distanceshift.gif" alt="" height=200px width=auto class="center">
-        <p style="text-align:center"><br><strong>Gravitational lensing</strong><br><a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a>.<br><br>Note, to perform this activity a wineglass (and optionally other glassware is required. See the lesson plan for more info!</p>
+        <p style="text-align:center"><strong>Gravitational lensing: Just like optics!</strong><br><br><a href="{{site.url}}/files/lensing_lesson.pdf">Introductory Presentation</a><br><a href="{{site.url}}/files/lensing_lab.pdf">Student Worksheet</a><br><a href="{{site.url}}/files/lensing_lab_solutions.pdf">Instructor Solutions</a><br>Note, to perform this activity a wineglass (and optionally other glassware) is required. See the lesson plan for more information!</p>
     </div><!-- /.medium-6.columns -->
 
 </div><!-- /.row -->
