@@ -13,7 +13,7 @@ title:  "Resources for Outreach"
 
     <div class="medium-6 columns b15">
         <img src="{{site.urlimg}}lensing_distanceshift.gif" alt="" height=200px width=auto class="center">
-        <p style="text-align:center"><br><br><br><br><strong>Gravitational lensing</strong><br><a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a>.<br><br>McCullough <em>et al.</em> (in prep)</p>
+        <p style="text-align:center"><br><strong>Gravitational lensing</strong><br><a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a>.<br><br>McCullough <em>et al.</em> (in prep)</p>
     </div><!-- /.medium-6.columns -->
 
 </div><!-- /.row -->
