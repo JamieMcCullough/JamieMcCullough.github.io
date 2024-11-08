@@ -7,13 +7,13 @@ title:  "Resources for Outreach"
 ---
 <div class="row t60">
     <div class="medium-6 columns b15">
-        <img src="https://phyweb.lbl.gov/~rncahn/www/desi.jpg" alt="Credit: DESI" height=auto width=370px class="center">
+        <img src="https://cdn-gddfb.nitrocdn.com/XMOCPBDkJQcfbMeyrNhpgTZaRuIaedyd/assets/images/optimized/rev-386ba70/www.atascientific.com.au/wp-content/uploads/2020/01/Spectrometry-and-Spectroscopy.jpg" alt="" height=auto width=370px class="center">
         <p style="text-align:center"><br><br><strong>Spectroscopy and stellar physics in the classroom</strong><br><a href="{{site.url}}/files/Spectroscopy_and_Stellar_Physics.pdf">Student Worksheet</a><br><a href="{{site.url}}/files/Spectroscopy_and_Stellar_Physics_solutions.pdf">Instructor Solutions</a><br><br>Note, that to perform this activity, a simple spectrograph or diffraction grating is required, which can be cheaply acquired e.g., <a href="https://www.arborsci.com/products/quantitative-spectroscope?currency=USD&variant=18111874400329&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=76ed39d3225f&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1iyqFHYY16xAX1mYkjojA6Y1Fk2gn7omLaHruQYyGIUwNWkU5iZPX4aAle1EALw_wcB">here</a>.</p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b15">
-        <img src="https://lsstdesc.org/assets/img/logo.png" alt="Credit: LSST/DESC" height=200px width=auto class="center">
-        <p style="text-align:center"><br><br><br><br>Galaxy property and data driven intrinsic alignment models in the <a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a>.<br><br>McCullough <em>et al.</em> (in prep)</p>
+        <img src="{{site.urlimg}}lensing_distanceshift.gif" alt="" height=200px width=auto class="center">
+        <p style="text-align:center"><br><br><br><br><strong>Gravitational lensing</strong><br><a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a>.<br><br>McCullough <em>et al.</em> (in prep)</p>
     </div><!-- /.medium-6.columns -->
 
 </div><!-- /.row -->
