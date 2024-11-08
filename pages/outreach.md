@@ -13,7 +13,7 @@ title:  "Resources for Outreach"
 
     <div class="medium-6 columns b15">
         <img src="{{site.urlimg}}lensing_distanceshift.gif" alt="" height=200px width=auto class="center">
-        <p style="text-align:center"><strong>Gravitational lensing: Just like optics!</strong><a href="{{site.url}}/files/lensing_lesson.pdf">Introductory Presentation</a><br><a href="{{site.url}}/files/lensing_lab.pdf">Student Worksheet</a><br><a href="{{site.url}}/files/lensing_lab_solutions.pdf">Instructor Solutions</a><br>Developed in conjuction with SAGE-S. Note, to perform this activity a wineglass (and optionally other glassware) is required. See the lesson plan for more information!</p>
+        <p style="text-align:center"><strong>Gravitational lensing: Just like optics!</strong><br><a href="{{site.url}}/files/lensing_lesson.pdf">Introductory Presentation</a><br><a href="{{site.url}}/files/lensing_lab.pdf">Student Worksheet</a><br><a href="{{site.url}}/files/lensing_lab_solutions.pdf">Instructor Solutions</a><br>Developed in conjuction with SAGE-S. Note, to perform this activity a wineglass (and optionally other glassware) is required. See the lesson plan for more information!</p>
     </div><!-- /.medium-6.columns -->
 
 </div><!-- /.row -->
@@ -21,8 +21,8 @@ title:  "Resources for Outreach"
 <div class="row t60">
 
     <div class="medium-4 columns b15">
-        <img src="{{site.urlimg}}4c3r2_messenger_selection.png" alt="" height=200px width=auto class="center">
-        <p style="text-align:center">Co-Principal Investigator of the 4MOST Complete Calibration of the Color-Redshift Relation (4C3R2) survey on the <a href="https://www.4most.eu/cms/home/">4-metre Multi-Object Spectroscopic Telescope (4MOST)</a>.<br><br><a href="https://www.eso.org/sci/publications/messenger/archive/no.190-mar23/messenger-no190-28-30.pdf#toolbar=0">Gruen & McCullough <em>et al.</em> 2023</a><br>McCullough <em>et al.</em> (in prep.)</p>
+        <img src="[{{site.urlimg}}4c3r2_messenger_selection.png](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mnras/531/2/10.1093_mnras_stae1316/1/m_stae1316fig11.jpeg?Expires=1732098168&Signature=l8F0X-aGO2c7UrZASD2UjCVMpy1eSYmNZPLp~-eZZbjHXWCLAkn1XSpHn22BqCt92C5oRS-zQYHoR8fUn9HtcEjgRPVlSydmJ4Xg9ozdQczSg2datlsa2yEYpIZVhj0wb9liMMI581OpBCDFhmTYpgAuIWp4qXKxEW~csIChPqIyytPwkC8TmidvWtydGYsxZHvw3AjlbfU1oEpJNv3os3clSPR9sJajCGzybhMW7Y9d87EwbwQrOM10~9I1hQfsSOQZYDeUES5h15Xt~Ctc5uKDGp07ch-Hf-nVA6LA5KjsaMJcbOFOavZeaxsOU1nXpla~Pl8SmJxE5mbeECX5jQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)" alt="MNRAS" height=200px width=auto class="center">
+        <p style="text-align:center">American Physical Society (APS) 2023<br><a href="{{site.url}}/files/APS_The role of DESI in Photo-z Inference for LSST, Euclid, and future cosmological surveys.pdf">DESI in service of future cosmological surveys</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns b15">
