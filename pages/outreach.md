@@ -26,7 +26,7 @@ title:  "Resources for Outreach"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns b15">
-        <img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mnras/531/2/10.1093_mnras_stae1316/1/m_stae1316fig5.jpeg?Expires=1732042277&Signature=0EEkZBt-qQR7xL-81G421CZCFMsDN5Pf-1B9Ctw3QF6wW-BDa2gPCfS-dd-rNn9N~Fk9CiJ4sFt9yyPIhvAvrLd-ERPa1VZVLLdjn6BwPaQfIxC7OihnR6dLVyjNBSDJDUhkQYwSfW2c5~1HngdsEy6qLrLLQXECrXDAEwmOPNuXSe6Y3AiodmIKCJIlK73CFDwcRE93tYKrrkAgj0rtLJGjrk-X86yArOexOnsQxGrxB8AzAR0uU2KLiTJAqBU0KK-VWkvzulgFhtyxO3ycTxGMS2I07c1Oik7YiJ2zU51aeuczE8LNecCH5e4a4QfGJDgKKN4JV22CzdPaTFF7TQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="Credit: 4MOST" height=200px width=auto class="center">
+        <img src="{{site.urlimg}}news.png" alt="" height=200px width=auto class="center">
         <p style="text-align:center"><br>Targeting observations of galaxies to understand the relationship between distance and flux with a spare fiber program on the <a href="https://www.4most.eu/cms/home/">Dark Energy Spectroscopic Instrument (DESI)</a>. See the <a href="{{site.url}}/data/dc3r2/">data release page</a>.<br><br><a href="https://academic.oup.com/mnras/article/531/2/2582/7686823">McCullough <em>et al.</em> 2024</a></p>
     </div><!-- /.medium-4.columns -->
 
