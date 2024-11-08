@@ -31,7 +31,7 @@ title:  "Resources for Outreach"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns b15">
-        <img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mnras/509/3/10.1093_mnras_stab2870/1/m_stab2870fig9.jpeg?Expires=1732691827&Signature=0H~0wTf3STxwDCWsMoAVEfLZaa8lHXh4yEr~tk5oRVlEFQfDrMtTWumzjUb0QRz-dtgNHyho3nzjRPZTj2NhHT8z4GErAjLidU1HAlh1AAN8RUD0dFFplw9Ff-srr-hYxv45TwVpuN0EnZDST-b2RiwYrm0TNFRRYKGmsbi2Wg~M0ubbWtJdby0-BnuzKCEPxOSQWLHkeltzkA290gGUrNqXIOpeq6-SIN-3Liq0u3p-NYEB-6~n7349AmytLrTNWKy2iGWCL-B~N7YClevPKwOxOSpcKBssKyaia5Px70HUKHIBRwxprzPTuvCCJmMctJJo4ozvT9C6y~H-K0i89A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="" height=auto width=370px class="center">
-        <p style="text-align:center"><br><br>Understanding shear bias - the relationship between shape and graviational shear - in the presence of galaxy-galaxy blending with image simulations for the <a href="https://www.darkenergysurvey.org/">Dark Energy Survey (DES)</a> Y3 Cosmology <a href="https://www.darkenergysurvey.org/des-year-3-cosmology-results-papers/">results</a>.<br><br><a href="https://academic.oup.com/mnras/article-abstract/509/3/3371/6385771">MacCrann, Becker, McCullough <em>et al.</em> 2021</a></p>
+        <img src="https://img.favpng.com/5/5/6/newspaper-editorial-cartoon-clip-art-png-favpng-G4BZ9xuJuBjh1gEPYWNtF0kYq.jpg" alt="" height=auto width=370px class="center">
+        <p style="text-align:center"><br><br> See the <a href="{{site.url}}/articles">articles and press releases</a> page to read more!</p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
