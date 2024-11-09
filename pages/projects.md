@@ -8,7 +8,7 @@ title:  "Research Projects"
 <div class="row t60">
     <div class="medium-4 columns b15">
         <img src="https://phyweb.lbl.gov/~rncahn/www/desi.jpg" alt="Credit: DESI" height=auto width=370px class="center">
-        <p style="text-align:center"><br><br>Direct measurement of galaxy intrinsic alignment with the <a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>.<br><br>McCullough <em>et al.</em> (in prep.)</p>
+        <p style="text-align:center"><br><br>Direct measurement of galaxy intrinsic alignment with the <a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>.<br><br>Siegel & McCullough <em>et al.</em> (in prep.)</p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns b15">
