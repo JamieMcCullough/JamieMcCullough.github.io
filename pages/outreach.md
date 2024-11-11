@@ -37,7 +37,7 @@ title:  "Resources for Outreach"
     </div><!-- /.medium-6.columns --> 
 
     <div class="medium-6 columns b15">
-        <img src="{{site.urlimg}}news.png" alt="" height=auto width=300px class="center">
+        <img src="{{site.urlimg}}news.png" alt="" height=auto width=260px class="center">
         <p style="text-align:center">See the <a href="{{site.url}}/articles">articles and press releases</a> page to read more!</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
