@@ -5,6 +5,7 @@ permalink: /visualization/outreach/
 subheadline:  " science communication / outreach"
 title:  "Resources for Outreach"
 ---
+<h2>Classroom astronomy</h2>
 <div class="row t60">
     <div class="medium-6 columns b15">
         <img src="https://cdn-gddfb.nitrocdn.com/XMOCPBDkJQcfbMeyrNhpgTZaRuIaedyd/assets/images/optimized/rev-386ba70/www.atascientific.com.au/wp-content/uploads/2020/01/Spectrometry-and-Spectroscopy.jpg" alt="" height=auto width=460px class="center">
@@ -17,6 +18,11 @@ title:  "Resources for Outreach"
     </div><!-- /.medium-6.columns -->
 
 </div><!-- /.row -->
+<h2>Resources for High School and Undergraduate Students</h2>
+<p><img src="https://physics.stanford.edu/sites/physics/files/styles/responsive_large/public/media/image/physics_footer-01_0.png" alt="" style="display:inline-block; padding-right:10px; width:auto; height:70px;"><h4>Stanford Physics, Identity, Equity (PIE) Program</h4><br><blockquote>The Stanford Physics, Identity, and Equity (PIE) program is designed to support candidates who have aspirations to apply to doctoral programs and become future leaders in the scientific community, and who will promote and/or contribute to a more equitable and inclusive physics community that would enhance our field. This three-day program will provide prospective applicants with information and guidance on the graduate experience, the PhD application process, and the various research interests at Stanford. <a href="https://physics.stanford.edu/inclusion/stanford-pie">Read more</a></blockquote></p>
+
+<p><img src="https://nationallabs.org/wp-content/uploads/2017/03/slac-logo-1-1200x1000.png" alt="" style="display:inline-block; padding-right:10px; width:auto; height:70px;"><h4>Science Accelerating Girls' Engagement (SAGE)</h4><br><blockquote>The SAGE Mission is to engage curious and passionate students of genders underrepresented in STEM, and empower them to explore a wide range of possibilities for their future. <a href="https://sage.slac.stanford.edu/">Read more</a></blockquote></p>
+
 <h1>Talking about Research</h1>
 <div class="row t60">
 
