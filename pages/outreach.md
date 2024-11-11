@@ -21,7 +21,7 @@ title:  "Resources for Outreach"
 <div class="row t60">
 
     <div class="medium-6 columns b15">
-        <img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mnras/531/2/10.1093_mnras_stae1316/1/m_stae1316fig11.jpeg?Expires=1732098168&Signature=l8F0X-aGO2c7UrZASD2UjCVMpy1eSYmNZPLp~-eZZbjHXWCLAkn1XSpHn22BqCt92C5oRS-zQYHoR8fUn9HtcEjgRPVlSydmJ4Xg9ozdQczSg2datlsa2yEYpIZVhj0wb9liMMI581OpBCDFhmTYpgAuIWp4qXKxEW~csIChPqIyytPwkC8TmidvWtydGYsxZHvw3AjlbfU1oEpJNv3os3clSPR9sJajCGzybhMW7Y9d87EwbwQrOM10~9I1hQfsSOQZYDeUES5h15Xt~Ctc5uKDGp07ch-Hf-nVA6LA5KjsaMJcbOFOavZeaxsOU1nXpla~Pl8SmJxE5mbeECX5jQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="" height=200px width=auto class="center">
+        <img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mnras/531/2/10.1093_mnras_stae1316/1/m_stae1316fig11.jpeg?Expires=1732098168&Signature=l8F0X-aGO2c7UrZASD2UjCVMpy1eSYmNZPLp~-eZZbjHXWCLAkn1XSpHn22BqCt92C5oRS-zQYHoR8fUn9HtcEjgRPVlSydmJ4Xg9ozdQczSg2datlsa2yEYpIZVhj0wb9liMMI581OpBCDFhmTYpgAuIWp4qXKxEW~csIChPqIyytPwkC8TmidvWtydGYsxZHvw3AjlbfU1oEpJNv3os3clSPR9sJajCGzybhMW7Y9d87EwbwQrOM10~9I1hQfsSOQZYDeUES5h15Xt~Ctc5uKDGp07ch-Hf-nVA6LA5KjsaMJcbOFOavZeaxsOU1nXpla~Pl8SmJxE5mbeECX5jQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="" height=auto width=370px class="center">
         <p style="text-align:center">American Physical Society (APS) 2023<br><a href="{{site.url}}/files/APS_DESI_C3R2.pdf">DESI in service of future cosmological surveys</a></p>
     </div><!-- /.medium-6.columns -->
 
@@ -29,7 +29,6 @@ title:  "Resources for Outreach"
         <img src="{{site.urlimg}}thesistalk.jpg" alt="" height=200px width=auto class="center">
         <p style="text-align:center">See the slide deck for my dissertation defense: <a href="{{site.url}}/data/dc3r2/">charting cosmic structure</a></p>
     </div><!-- /.medium-6.columns --> 
-    -->
 
     <div class="medium-6 columns b15">
         <img src="{{site.urlimg}}news.png" alt="" height=auto width=370px class="center">
