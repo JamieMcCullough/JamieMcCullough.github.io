@@ -21,13 +21,13 @@ title:  "Resources for Outreach"
 <div class="row t60">
 
     <div class="medium-4 columns b15">
-        <img src="[{{site.urlimg}}4c3r2_messenger_selection.png](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mnras/531/2/10.1093_mnras_stae1316/1/m_stae1316fig11.jpeg?Expires=1732098168&Signature=l8F0X-aGO2c7UrZASD2UjCVMpy1eSYmNZPLp~-eZZbjHXWCLAkn1XSpHn22BqCt92C5oRS-zQYHoR8fUn9HtcEjgRPVlSydmJ4Xg9ozdQczSg2datlsa2yEYpIZVhj0wb9liMMI581OpBCDFhmTYpgAuIWp4qXKxEW~csIChPqIyytPwkC8TmidvWtydGYsxZHvw3AjlbfU1oEpJNv3os3clSPR9sJajCGzybhMW7Y9d87EwbwQrOM10~9I1hQfsSOQZYDeUES5h15Xt~Ctc5uKDGp07ch-Hf-nVA6LA5KjsaMJcbOFOavZeaxsOU1nXpla~Pl8SmJxE5mbeECX5jQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)" alt="MNRAS" height=200px width=auto class="center">
-        <p style="text-align:center">American Physical Society (APS) 2023<br><a href="{{site.url}}/files/APS_The role of DESI in Photo-z Inference for LSST, Euclid, and future cosmological surveys.pdf">DESI in service of future cosmological surveys</a></p>
+        <img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mnras/531/2/10.1093_mnras_stae1316/1/m_stae1316fig11.jpeg?Expires=1732098168&Signature=l8F0X-aGO2c7UrZASD2UjCVMpy1eSYmNZPLp~-eZZbjHXWCLAkn1XSpHn22BqCt92C5oRS-zQYHoR8fUn9HtcEjgRPVlSydmJ4Xg9ozdQczSg2datlsa2yEYpIZVhj0wb9liMMI581OpBCDFhmTYpgAuIWp4qXKxEW~csIChPqIyytPwkC8TmidvWtydGYsxZHvw3AjlbfU1oEpJNv3os3clSPR9sJajCGzybhMW7Y9d87EwbwQrOM10~9I1hQfsSOQZYDeUES5h15Xt~Ctc5uKDGp07ch-Hf-nVA6LA5KjsaMJcbOFOavZeaxsOU1nXpla~Pl8SmJxE5mbeECX5jQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="" height=200px width=auto class="center">
+        <p style="text-align:center">American Physical Society (APS) 2023<br><a href="{{site.url}}/files/APS_DESI_C3R2.pdf">DESI in service of future cosmological surveys</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns b15">
-        <img src="{{site.urlimg}}news.png" alt="" height=200px width=auto class="center">
-        <p style="text-align:center"><br>Targeting observations of galaxies to understand the relationship between distance and flux with a spare fiber program on the <a href="https://www.4most.eu/cms/home/">Dark Energy Spectroscopic Instrument (DESI)</a>. See the <a href="{{site.url}}/data/dc3r2/">data release page</a>.<br><br><a href="https://academic.oup.com/mnras/article/531/2/2582/7686823">McCullough <em>et al.</em> 2024</a></p>
+        <img src="{{site.urlimg}}thesistalk.jpg" alt="" height=200px width=auto class="center">
+        <p style="text-align:center">See the slide deck for my dissertation defense: <a href="{{site.url}}/data/dc3r2/">charting cosmic structure</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns b15">
