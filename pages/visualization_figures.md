@@ -74,4 +74,31 @@ header: no
         <p>A depiction of a self-organizing map (SOM) at work, discretizing a 3D space into the 2D map seen on the right. This unsupervised machine learning technique preserves the geometry and distribution of the data.</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
+<h4>How do we fit our cosmology to two-point correlations of galaxy shapes?</h4>
+<div class="row t60">
+    <div class="medium-4 columns b30">
+        <img src="{{ site.urlimg }}s8shift_xip_resized_reversed.gif" alt="">
+    </div><!-- /.medium-6.columns -->
 
+    <div class="medium-4 columns b30">
+        <img src="{{ site.urlimg }}omshift_xip_resized_reversed.gif" alt="">
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-4 columns b30">
+        <img src="{{ site.urlimg }}aiashift_xip_resized_reversed.gif" alt="">
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<div class="row t60">
+    <div class="medium-4 columns b30">
+        <img src="{{ site.urlimg }}s8shift_xim_resized_reversed.gif" alt="">
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-4 columns b30">
+        <img src="{{ site.urlimg }}omshift_xim_resized_reversed.gif" alt="">
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-4 columns b30">
+        <img src="{{ site.urlimg }}aiashift_xim_resized_reversed.gif" alt="">
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
