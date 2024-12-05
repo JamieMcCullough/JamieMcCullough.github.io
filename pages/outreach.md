@@ -8,7 +8,7 @@ title:  "Resources for Outreach"
 <h2>Classroom astronomy</h2>
 <div class="row t60">
     <div class="medium-6 columns b15">
-        <img src="{{site.urlimg}}Light_dispersion_conceptual.gif" alt="" height=auto width=460px class="center">
+        <img src="{{site.urlimg}}Light_dispersion_conceptual.gif" alt="" height=auto width=500px class="center">
         <p style="text-align:center"><strong>Spectroscopy and stellar physics in the classroom</strong><br><a href="{{site.url}}/files/Spectroscopy_and_Stellar_Physics.pdf">Student Worksheet</a><br><a href="{{site.url}}/files/Spectroscopy_and_Stellar_Physics_solutions.pdf">Instructor Solutions</a><br><br>Note, that to perform this activity, a simple spectrograph or diffraction grating is required, which can be cheaply acquired e.g., <a href="https://www.arborsci.com/products/quantitative-spectroscope?currency=USD&variant=18111874400329&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=76ed39d3225f&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1iyqFHYY16xAX1mYkjojA6Y1Fk2gn7omLaHruQYyGIUwNWkU5iZPX4aAle1EALw_wcB">here</a>.</p>
     </div><!-- /.medium-6.columns -->
 
@@ -27,7 +27,7 @@ title:  "Resources for Outreach"
 <div class="row t60">
 
     <div class="medium-6 columns b15">
-        <img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/mnras/531/2/10.1093_mnras_stae1316/1/m_stae1316fig11.jpeg?Expires=1732098168&Signature=l8F0X-aGO2c7UrZASD2UjCVMpy1eSYmNZPLp~-eZZbjHXWCLAkn1XSpHn22BqCt92C5oRS-zQYHoR8fUn9HtcEjgRPVlSydmJ4Xg9ozdQczSg2datlsa2yEYpIZVhj0wb9liMMI581OpBCDFhmTYpgAuIWp4qXKxEW~csIChPqIyytPwkC8TmidvWtydGYsxZHvw3AjlbfU1oEpJNv3os3clSPR9sJajCGzybhMW7Y9d87EwbwQrOM10~9I1hQfsSOQZYDeUES5h15Xt~Ctc5uKDGp07ch-Hf-nVA6LA5KjsaMJcbOFOavZeaxsOU1nXpla~Pl8SmJxE5mbeECX5jQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" alt="" height=auto width=380px class="center">
+        <img src="{{site.urlimg}}som_spectra_threepanels.png" alt="" height=auto width=380px class="center">
         <p style="text-align:center">American Physical Society (APS) 2023<br><a href="{{site.url}}/files/APS_DESI_C3R2.pdf">DESI in service of future cosmological surveys</a></p>
     </div><!-- /.medium-6.columns -->
 
