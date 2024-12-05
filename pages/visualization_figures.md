@@ -74,7 +74,7 @@ header: no
         <p>A depiction of a self-organizing map (SOM) at work, discretizing a 3D space into the 2D map seen on the right. This unsupervised machine learning technique preserves the geometry and distribution of the data.</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
-<h4>How do we fit our cosmology to two-point correlations of galaxy shapes?</h4>
+<h2>How do we fit our cosmology to two-point correlations of galaxy shapes?</h2>
 <div class="row t60">
     <div class="medium-4 columns b30">
         <img src="{{ site.urlimg }}s8shift_xip_resized_reversed.gif" alt="">
