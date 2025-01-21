@@ -46,7 +46,7 @@ header: no
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}redshifting_oii.gif" alt="">
-        <p>A star forming galaxy with the O-II doublet (in blue) at increasing distance and redshift away from us. When the blue line passes inot the gray region, it is undetectable by most silicon-based detectors and measuring the redshift from a given spectrum becomes difficult.</p>
+        <p>A star forming galaxy with the O-II doublet (in blue) at increasing distance and redshift away from us. When the blue line passes in to the gray region, it is undetectable by most silicon-based detectors and measuring the redshift from a given spectrum becomes difficult.</p>
     </div><!-- /.medium-6.columns -->
 
 </div><!-- /.row -->
