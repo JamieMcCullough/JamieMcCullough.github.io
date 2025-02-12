@@ -42,13 +42,13 @@ title:  "Research Groups"
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b15">
-        <img src="https://www.eso.org/sci/facilities/develop/instruments/4MOST/_jcr_content/par/image.img.png/1485504250626.png" alt="Credit: 4MOST" height=200px width=auto class="center">
+        <img src="https://www.eso.org/sci/facilities/develop/instruments/4MOST/_jcr_content/par/image.img.png/1485504250626.png" alt="Credit: 4MOST" height=240px width=auto class="center">
         <p style="text-align:center"><br>The <a href="https://www.4most.eu/cms/home/">4-metre Multi-Object Spectroscopic Telescope (4MOST)</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 <div class="row t60">
     <div class="medium-6 columns b15">
-        <img src="https://roman-pipeline.readthedocs.io/en/latest/_images/roman_logo_black_w200px.png" alt="Credit: NASA/Roman" height=200px width=auto class="center">
+        <img src="https://roman-pipeline.readthedocs.io/en/latest/_images/roman_logo_black_w200px.png" alt="Credit: NASA/Roman" height=240px width=auto class="center">
         <p style="text-align:center">The <a href="https://roman.gsfc.nasa.gov/">Nancy Grace Roman Space Telescope</a></p>
     </div><!-- /.medium-6.columns -->
 
