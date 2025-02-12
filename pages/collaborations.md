@@ -42,7 +42,7 @@ title:  "Research Groups"
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b15">
-        <img src="https://chances.uda.cl/wp-content/uploads/2022/09/logo_4most_footer-300x300.png" alt="Credit: 4MOST" height=200px width=auto class="center">
+        <img src="https://www.eso.org/sci/facilities/develop/instruments/4MOST/_jcr_content/par/image.img.png/1485504250626.png" alt="Credit: 4MOST" height=200px width=auto class="center">
         <p style="text-align:center"><br>The <a href="https://www.4most.eu/cms/home/">4-metre Multi-Object Spectroscopic Telescope (4MOST)</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
