@@ -15,12 +15,12 @@ title:  "Research Groups"
 
     <div class="medium-4 columns b15">
         <img src="https://cms-cdn.lmu.de/media/17-physik/17-observatory/photos/webbs_first_deep_field_1_1_format_l.jpg" alt="Credit: ACAI" height=auto width=270px class="circular--square">
-        <p style="text-align:center">The <a href="https://www.desi.lbl.gov/">The Astrophysics, Cosmology, and Artificial Intelligence (ACAI) group at LMU Munich with Daniel Gruen</a></p>
+        <p style="text-align:center"><a href="https://www.desi.lbl.gov/">Astrophysics, Cosmology, and Artificial Intelligence (ACAI) at LMU Munich with Daniel Gruen</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns b15">
         <img src="https://www.slac.stanford.edu/~roodman/img/RoodmanAaron_BW.jpg" alt="" height=auto width=250px class="circular--square">
-        <p style="text-align:center"><a href="https://www.slac.stanford.edu/~roodman/index.html">Experimental Cosmology<br>with Aaron Roodman</a></p>
+        <p style="text-align:center"><a href="https://www.slac.stanford.edu/~roodman/index.html">Experimental Cosmology<br> at Stanford with Aaron Roodman</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 <h1>Scientific Collaborations</h1>
