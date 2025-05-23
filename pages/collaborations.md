@@ -15,7 +15,7 @@ title:  "Research Groups"
 
     <div class="medium-4 columns b15">
         <img src="https://cms-cdn.lmu.de/media/17-physik/17-observatory/photos/webbs_first_deep_field_1_1_format_l.jpg" alt="Credit: ACAI" height=auto width=270px class="circular--square">
-        <p style="text-align:center"><a href="https://www.desi.lbl.gov/">Astrophysics, Cosmology, and Artificial Intelligence (ACAI) at LMU Munich with Daniel Gruen</a></p>
+        <p style="text-align:center"><a href="https://www.physik.lmu.de/observatory/en/research/cosmology-at-usm/acai-group/">Astrophysics, Cosmology, and Artificial Intelligence (ACAI) at LMU Munich with Daniel Gruen</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns b15">
