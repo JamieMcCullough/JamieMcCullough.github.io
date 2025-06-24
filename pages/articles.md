@@ -12,6 +12,10 @@ header:
     caption_url: https://www.slac.stanford.edu/~kaehler/homepage/visualizations/images/
 ---
 <ul>
+    <p><img src="https://perimeterinstitute.ca/themes/custom/pi_theme/logo.svg" alt="" style="display:inline-block; padding-right:10px; width:auto; height:70px;"><h4>Meet the 2025 Emmy Noether Fellows
+
+</h4> <em>by Perimeter Institute (Jun 20, 2025)</em><br><blockquote>15 visiting researchers earn prestigious spots in this year’s Simons Emmy Noether Fellowship program, and are ready to bring their physics to life ... </blockquote></p><p style="text-align:center"><a class="radius button small" href="https://perimeterinstitute.ca/news/meet-2025-emmy-noether-fellows">Read more</a> </p>
+
     <p><img src="https://phyweb.lbl.gov/~rncahn/www/desi.jpg" alt="" style="display:inline-block; padding-right:10px; width:auto; height:70px;"><h4>Charting the dark cosmic web: where DESI and imaging surveys intersect
 
 </h4> <em>by Jamie McCullough (Feb 25, 2025)</em><br><blockquote>Cosmological measurements often make use of sophisticated concepts that depart from the everyday. Here we visualize several of the concepts involved in plans to measure the distribution of dark matter in the universe and probe the growth of cosmic structure over time ... </blockquote></p><p style="text-align:center"><a class="radius button small" href="https://www.desi.lbl.gov/2025/02/25/charting-the-dark-cosmic-web-where-desi-and-imaging-surveys-intersect/">Read more</a> </p>
