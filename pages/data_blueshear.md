@@ -28,6 +28,8 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
 <a class="radius button small" download="2pt_extended_data_blue_covupdated_at_3x2pt-cosmo.fits" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/2pt_extended_data_blue_covupdated_at_3x2pt-cosmo.fits?raw=true"><strong>Download FITS</strong> ›</a><br>   
 <strong>fiducial <em>Polychord</em> <mark>chain</mark></strong><em>(.txt)</em><br><em>modeled with no intrinsic alignment, flexible baryon feedback, and analyzed at all scales</em><br>
 <a class="radius button small" download="chain_blue_noia_hm20tagn76_83.txt" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain_blue_noia_hm20tagn76_83.txt?raw=true"><strong>Download Chain</strong> ›</a><br>  
+<strong>source selection <mark>dictionary</mark> <em>(.pkl)</em><br><em>see instructions below to implement</em><br>
+<a class="radius button small" download="blue_tomo_bins_wide_cell_dictionary.pkl" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/blue_tomo_bins_wide_cell_dictionary.pkl?raw=true"><strong>Download Source Selection Dictionary</strong> ›</a><br>  
 </p>
 ### Calibration for the blue sample
 These galaxies have different redshift distributions and shear calibration than the fiducial Y3 analysis. When running chains, take care to incorporate the relevant systematic calibrations updated here.
@@ -80,6 +82,20 @@ These galaxies have different redshift distributions and shear calibration than 
   </tbody>
     <caption>For more information, see Table I in the paper.</caption>
 </table>
+
+### Source selection of the blue sample
+The provided dictionary has keys `0, 1, 2, 3` for each tomographic bin with a list of photometric cell identifiers that meet the pure, blue, star-forming criteria we set in the paper, see <em> Myles & Alarcon et al. 2021</em> for more information on the cell definitions. For the Y3 data products, you can find the most up-to-date cell assignment for the public source catalogs <a href="https://des.ncsa.illinois.edu/releases/y3a2/Y3key-catalogs">here</a>, under `/catalog/sompz/unsheared` with column name `CELL_WIDE`. The dictionary can be read in with the following python snippet:
+<pre>
+    import pickle
+    import numpy
+    
+    with open('blue_tomo_bins_wide_cell_dictionary.pkl','rb') as f:
+        tomodict = pickle.load(f) #with different python versions, you may need to specify encoding=bytes or latin1
+
+    # to produce a selection for e.g. blue tomographic bin 1 given CELL_IDs in 'cat'
+    mask = np.in1d(cat['CELL_WIDE'], tomodict[0])
+    cat_bin_1_blue = cat[mask]
+</pre>
 
 ## Major Collaborators
 <div class="row t30">
