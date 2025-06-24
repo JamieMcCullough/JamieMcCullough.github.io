@@ -28,7 +28,7 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
 <a class="radius button small" download="2pt_extended_data_blue_covupdated_at_3x2pt-cosmo.fits" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/2pt_extended_data_blue_covupdated_at_3x2pt-cosmo.fits?raw=true"><strong>Download FITS</strong> ›</a><br>   
 <strong>fiducial <em>Polychord</em> <mark>chain</mark></strong><em>(.txt)</em><br><em>modeled with no intrinsic alignment, flexible baryon feedback, and analyzed at all scales</em><br>
 <a class="radius button small" download="chain_blue_noia_hm20tagn76_83.txt" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/chain_blue_noia_hm20tagn76_83.txt?raw=true"><strong>Download Chain</strong> ›</a><br>  
-<strong>source selection <mark>dictionary</mark> <em>(.pkl)</em><br><em>see instructions below to implement</em><br>
+<strong>source selection <mark>dictionary</mark></strong><em>(.pkl)</em><br><em>see instructions below to implement</em><br>
 <a class="radius button small" download="blue_tomo_bins_wide_cell_dictionary.pkl" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_blueshear/blue_tomo_bins_wide_cell_dictionary.pkl?raw=true"><strong>Download Source Selection Dictionary</strong> ›</a><br>  
 </p>
 ### Calibration for the blue sample
