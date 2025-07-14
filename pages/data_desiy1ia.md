@@ -17,7 +17,7 @@ permalink: '/data/desiy1_intrinsic_alignments/'
 ### Siegel, McCullough, Amon, <em>et al.</em> 2025
 ## Abstract
 We present <mark>direct measurements of the intrinsic alignments (IA) of over 2 million spectroscopic galaxies</mark> using <mark>DESI Data Release 1</mark> and imaging from four lensing surveys: <mark>DES, HSC, KiDS, and SDSS</mark>. This work <strong>builds a library of IA measurements across colour, luminosity, stellar mass, and redshift</strong>. We map the dependence between galaxy type and IA amplitude; the <mark>bluest galaxies have an alignment consistent with zero</mark>, at both low (0.05 < z < 0.5) and high (0.8 < z < 1.55) redshifts. To construct cosmic shear samples minimally impacted by IA, we <mark>map the dependence of alignment with colour purity</mark>. Red, quenched galaxies are strongly aligned, with the amplitude of the signal increasing with luminosity and stellar mass. For DESI galaxies between z ∼ 0.2 − 1.5, trends in luminosity and colour alone are sufficient to explain the alignments we measure — with <strong>no need for an explicit redshift dependence</strong>. In a companion paper (Jeffrey et al., in prep), we perform detailed modelling of the IA signals with significant detections. Finally, to direct efforts for future IA measurements, we juxtapose the colour-magnitude-redshift coverage of existing IA measurements against modern and future lensing surveys.
-<img src="{{site.urlimg}}desiy1_summary.png" class="center" height=auto width=600px>
+<img src="{{site.urlimg}}desiy1_summary.png" class="center" height=auto width=700px>
 
 ## Available data products
 - Read the <strong>paper</strong>: <a href="">arxiv</a>, <a href="">journal (TBD)</a>
