@@ -49,7 +49,7 @@ We present <mark>direct measurements of the intrinsic alignments (IA) of over 2 
     </div><!-- /.medium-12.columns -->
 
     <div class="medium-4 columns b15">
-        <img src="http://www.star.ucl.ac.uk/~joachimi/BJoachimi.jpg" alt="" height=auto width=200px class="circular--square">
+        <img src="https://profiles.ucl.ac.uk/39879/photo" alt="" height=auto width=200px class="circular--square">
         <p style="text-align:center"><a href="http://www.star.ucl.ac.uk/~joachimi/">Benjamin Joachimi</a></p>
     </div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
