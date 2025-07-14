@@ -32,6 +32,9 @@
     url: "/data/dc3r2/"
   - title: "DES: Blue Cosmic Shear"
     url: "/data/blueshear/"
+  - title: "DESI Y1 Intrinsic Alignments"
+    url: "/data/desiy1_intrinsic_alignments/"
+  
 
 - title: Articles
   url: "/articles/"
