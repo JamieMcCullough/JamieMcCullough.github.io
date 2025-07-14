@@ -23,7 +23,7 @@ We present <mark>direct measurements of the intrinsic alignments (IA) of over 2 
 - Read the <strong>paper</strong>: <a href="">arxiv</a>, <a href="">journal (TBD)</a>
 - Read the sister <strong>modelling paper</strong>: _Jeffrey et al. (in prep)_ (TBD)
 - _For DESI Y1 data access_: See the [Year 1 Data Release](https://data.desi.lbl.gov/doc/releases/dr1/)
-- _For digitized direct measurements from the paper_: <a href="">_Zenodo_</a>
+- _For digitized direct measurements from the paper_: <a href="">_Zenodo_</a> _(To be released with the modelling paper)_
 
 ## Major Collaborators
 <div class="row t30">
