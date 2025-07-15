@@ -75,6 +75,18 @@ header: no
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 <h2>How do we fit our cosmology to two-point correlations of galaxy shapes?</h2>
+<h4>Without the y-axis scaled by angular separation</h4>
+<div class="row t60">
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}s8shift_xip_notheta_resized.gif" alt="">
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}s8shift_xim_notheta_resized.gif" alt="">
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<h4>With y-axis scaling by angular separation</h4>
 <div class="row t60">
     <div class="medium-4 columns b30">
         <img src="{{ site.urlimg }}s8shift_xip_resized_reversed.gif" alt="">
