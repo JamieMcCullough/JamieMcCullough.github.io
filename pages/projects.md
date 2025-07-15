@@ -11,7 +11,7 @@ title:  "Research Projects"
         <p style="text-align:center"><br><br><br><br>Galaxy property and data driven intrinsic alignment models in the <a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a>.<br><br>McCullough <em>et al.</em> (in prep)</p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns b15">
-        <img src="{{site.urlimg}}desiy1_summary.png" alt="" height=auto width=370px margin=0 0 0 -100px class="center">
+        <img src="{{site.urlimg}}desiy1_cropped.png" alt="" height=auto width=370px class="center">
         <p style="text-align:center"><br><br>Direct measurement of galaxy intrinsic alignment with the <a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>. See the <a href="{{site.url}}/data/desiy1_intrinsic_alignments/">data release page</a>.<br><br><a href="">Siegel, McCullough, Amon <em>et al.</em> 2025</a></p>
     </div><!-- /.medium-4.columns -->
      <div class="medium-4 columns b15">
