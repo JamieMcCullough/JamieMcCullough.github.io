@@ -1,9 +1,9 @@
 ---
 layout: page
 #title:  "Intrinsic alignment demographics: Revealing galaxy property trends with DESI Y1"
-teaser: "Galaxy shapes correlate with one another on small-scales, with a magnitude that depends on their local environment &mdash; captured by their luminosities, colors, and star formation histories."
+teaser: "<strong>Revealing galaxy property trends with DESI Y1</strong><br>Galaxy shapes correlate with one another on small-scales, with a magnitude that depends on their local environment &mdash; captured by their luminosities, colors, and star formation histories."
 header:
-    title: "<h6 style='color:white;font-size: 2rem;'>Intrinsic alignment demographics:</h6><br><h6 style='color:white;font-size:2rem;'>Revealing galaxy property trends with DESI Y1</h6>"
+    title: "Intrinsic alignment demographics for next-generation lensing"
     background-color: "#212a8b;"
     image_fullwidth: "mayall_telescope.png"
     caption: "© The Regents of the University of California, Lawrence Berkeley National Laboratory"
