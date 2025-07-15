@@ -8,7 +8,7 @@ header:
 widget1:
   title: "<br>DESI Y1: Direct measurements of intrinsic alignment"
   url: '/data/desiy1_intrinsic_alignments/'
-  image: desiy1_cropped.png
+  image: desiy1_summary.png
   text: 'Get (eventual) access to the measurements across many splits of DESI galaxy populations.'
 
 widget2:
