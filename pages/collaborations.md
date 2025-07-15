@@ -14,12 +14,12 @@ title:  "Research Groups"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns b15">
-        <img src="https://cms-cdn.lmu.de/media/17-physik/17-observatory/photos/webbs_first_deep_field_1_1_format_l.jpg" alt="Credit: ACAI" height=auto width=270px class="circular--square">
+        <img src="https://cms-cdn.lmu.de/media/17-physik/17-fakultaet-physik/photos/personen/gruen-daniel-now_1_1_format_m.jpg" alt="Credit: ACAI" height=auto width=270px class="circular--square">
         <p style="text-align:center"><a href="https://www.physik.lmu.de/observatory/en/research/cosmology-at-usm/acai-group/">Astrophysics, Cosmology, and Artificial Intelligence (ACAI) at LMU Munich with Daniel Gruen</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns b15">
-        <img src="https://kipac.stanford.edu/sites/default/files/styles/max_325x325/public/person/ec130245c7687178dbf10357a8130134.jpg?itok=LL2RpFKK" alt="" height=auto width=250px class="circular--square">
+        <img src="https://kipac.stanford.edu/sites/default/files/styles/max_325x325/public/person/ec130245c7687178dbf10357a8130134.jpg?itok=LL2RpFKK" alt="" height=auto width=200px class="circular--square">
         <p style="text-align:center"><a href="https://www.slac.stanford.edu/~roodman/index.html">Experimental Cosmology<br> at Stanford with Aaron Roodman</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
