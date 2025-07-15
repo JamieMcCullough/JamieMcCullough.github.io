@@ -33,7 +33,7 @@ We present <mark>direct measurements of the intrinsic alignments (IA) of over 2 
     </div><!-- /.medium-12.columns -->
   
     <div class="medium-4 columns b15">
-        <img src="https://web.astro.princeton.edu/sites/g/files/toruqf1486/files/styles/3x4_750w_1000h/public/2023-10/alex.jpg?raw=true" alt="" height=200px width=200px class="circular--square">
+        <img src="https://web.astro.princeton.edu/sites/g/files/toruqf1486/files/styles/3x4_750w_1000h/public/2023-10/alex.jpg?raw=true" alt="" height=200px width=180px class="circular--square">
         <p style="text-align:center"><a href="https://alexandraamon.com/">Alexandra Amon</a></p>
     </div><!-- /.medium-12.columns -->
 
