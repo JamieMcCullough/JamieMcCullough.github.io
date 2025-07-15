@@ -24,20 +24,14 @@ title:  "Resources for Outreach"
 <p><img src="https://nationallabs.org/wp-content/uploads/2017/03/slac-logo-1-1200x1000.png" alt="" style="display:inline-block; padding-right:30px; width:auto; height:280px; margin: 0px -70px -70px 0px"><h4>Science Accelerating Girls' Engagement (SAGE)</h4><br><blockquote>The SAGE Mission is to engage curious and passionate students of genders underrepresented in STEM, and empower them to explore a wide range of possibilities for their future. <a href="https://sage.slac.stanford.edu/">Read more</a></blockquote></p><br>
 
 <h1>Talking about Research</h1>
-<div class="row t60">
-
-    <div class="medium-6 columns b15">
+    
+    <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}som_spectra_threepanels.png" alt="" height=auto width=380px class="center">
         <p style="text-align:center">American Physical Society (APS) 2023<br><a href="{{site.url}}/files/APS_DESI_C3R2.pdf">DESI in service of future cosmological surveys</a></p>
-    </div><!-- /.medium-6.columns -->
+    </div><!-- /.medium-4.columns -->
 
-    <!-- <div class="medium-6 columns b15">
-        <img src="{{site.urlimg}}thesistalk.jpg" alt="" height=200px width=auto class="center">
-        <p style="text-align:center">See the slide deck for my dissertation defense: <a href="{{site.url}}/data/dc3r2/">charting cosmic structure</a></p>
-    </div><!-- /.medium-6.columns --> 
-
-    <div class="medium-6 columns b15">
+    <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}news.png" alt="" height=auto width=260px class="center">
         <p style="text-align:center">See the <a href="{{site.url}}/articles">articles and press releases</a> page to read more!</p>
-    </div><!-- /.medium-6.columns -->
+    </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
