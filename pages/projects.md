@@ -12,7 +12,7 @@ title:  "Research Projects"
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}desiy1_cropped.png" alt="" height=auto width=400px class="center">
-        <p style="text-align:center"><br><br>Direct measurement of galaxy intrinsic alignment with the <a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>. See the <a href="{{site.url}}/data/desiy1_intrinsic_alignments/">data release page</a>.<br><br><a href="">Siegel, McCullough, Amon <em>et al.</em> 2025</a></p>
+        <p style="text-align:center"><br><br><br>Direct measurement of galaxy intrinsic alignment with the <a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>. See the <a href="{{site.url}}/data/desiy1_intrinsic_alignments/">data release page</a>.<br><br><a href="">Siegel, McCullough, Amon <em>et al.</em> 2025</a></p>
     </div><!-- /.medium-4.columns -->
      <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}blueshear_summary.png" alt="" height=200px width=auto class="center">
