@@ -1,7 +1,7 @@
 ---
 layout: page
 #title:  "Intrinsic alignment demographics: Revealing galaxy property trends with DESI Y1"
-teaser: "Galaxy shapes correlate with one another on small-scales, with a magnitude that depends on their local environment -- captured by their luminosities, colors, and star formation histories."
+teaser: "Galaxy shapes correlate with one another on small-scales, with a magnitude that depends on their local environment &mdash; captured by their luminosities, colors, and star formation histories."
 header:
     title: "<h5 style='color:white;font-size: 2rem;'>Intrinsic alignment demographics:</h5><h4 style='color:white;font-size: 3rem;'>Revealing galaxy propoerty trends with DESI Y1</h4>"
     background-color: "#212a8b;"
