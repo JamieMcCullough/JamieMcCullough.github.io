@@ -25,13 +25,18 @@ title:  "Resources for Outreach"
 
 <h1>Talking about Research</h1>
 <div class="row t60">    
-    <div class="medium-4 columns b15">
+    <div class="medium-6 columns b15">
+        <img src="https://www.stsci.edu/files/live/sites/www/files/home/events/event-assets/2025/_images/2025-Roman-Conference-banner?t=tn1200" alt="" height=auto width=400px class="center">
+        <p style="text-align:center">Cosmic Cartography with Roman (2025)<br><a href="https://www.youtube.com/live/kMNujm0EJv0?si=TjeFnzjZENVEfPcZ&t=3956">Demographic Modeling of Intrinsic Alignment</a></p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-6 columns b15">
         <img src="{{site.urlimg}}som_spectra_threepanels.png" alt="" height=auto width=380px class="center">
         <p style="text-align:center">American Physical Society (APS) 2023<br><a href="{{site.url}}/files/APS_DESI_C3R2.pdf">DESI in service of future cosmological surveys</a></p>
-    </div><!-- /.medium-4.columns -->
+    </div><!-- /.medium-6.columns -->
 
-    <div class="medium-4 columns b15">
+    <div class="medium-6 columns b15">
         <img src="{{site.urlimg}}news.png" alt="" height=auto width=260px class="center">
         <p style="text-align:center">See the <a href="{{site.url}}/articles">articles and press releases</a> page to read more!</p>
-    </div><!-- /.medium-4.columns -->
+    </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
