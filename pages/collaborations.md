@@ -28,22 +28,22 @@ title:  "Research Groups"
 <div class="row t30">
     <div class="medium-6 columns b15">
         <img src="https://img1.wsimg.com/isteam/ip/2ade8e35-e5ea-4528-9ea9-a89813d0f72f/jared_2.jpg/:/cr=t:1.6%25,l:10.73%25,w:80.65%25,h:60.48%25/rs=w:365,h:365,cg:true,m" alt="" height=auto width=180px class="circular--square">
-        <p style="text-align:center"><a href="https://jaredcsiegel.github.io/">Jared Siegel (Princeton)</a><br>See <a href="{{site.url}}/data/desiy1_intrinsic_alignments">DESI Y1: Direct measurements of intrinsic alignment<br>Siegel, JM, Amon et al. 2025</a></p>
+        <p style="text-align:center"><a href="https://jaredcsiegel.github.io/">Jared Siegel (Princeton)</a><br>See <a href="{{site.url}}/data/desiy1_intrinsic_alignments">DESI Y1: Direct measurements of intrinsic alignment<br>Siegel, JM, Amon <em>et al.</em> 2025</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b15">
         <img src="{{site.urlimg}}blank_profile.png" alt="" height=auto width=180px class="circular--square">
-        <p style="text-align:center"><a href="https://www.physik.lmu.de/observatory/en/research/cosmology-at-usm/acai-group/">Moritz Gammel (LMU Munich)</a><br>See 4C3R2 Target Selection<br>JM & Gammel et al. (in prep)</p>
+        <p style="text-align:center"><a href="https://www.physik.lmu.de/observatory/en/research/cosmology-at-usm/acai-group/">Moritz Gammel (LMU Munich)</a><br>See 4C3R2 Target Selection<br>JM & Gammel <em>et al.</em> (in prep)</p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b15">
         <img src="https://scholars.duke.edu/profile-images/thumbnail500/1288134.jpg?nocache=1758565319505" alt="" height=auto width=180px class="circular--square">
-        <p style="text-align:center"><a href="https://cosmology.phy.duke.edu/author/boyan-yin/">Boyan Yin (Duke)</a><br> See DES Y6: Blue Shear<br>Yin, JM, Amon et al. (in prep)</p>
+        <p style="text-align:center"><a href="https://cosmology.phy.duke.edu/author/boyan-yin/">Boyan Yin (Duke)</a><br> See DES Y6: Blue Shear<br>Yin, JM, Amon <em>et al.</em> (in prep)</p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b15">
         <img src="https://img1.wsimg.com/isteam/ip/2ade8e35-e5ea-4528-9ea9-a89813d0f72f/screenshot_2023-12-07_at_20.10.23.png/:/cr=t:0%25,l:0%25,w:100%25,h:83.53%25/rs=w:365,h:365,cg:true" alt="" height=auto width=180px class="circular--square">
-        <p style="text-align:center"><a href="https://leahbigwood.github.io/">Leah Bigwood (Cambridge)</a><br> See data-driven priors for cosmic shear at small-scales<br>Bigwood & JM et al. (in prep)</p>
+        <p style="text-align:center"><a href="https://leahbigwood.github.io/">Leah Bigwood (Cambridge)</a><br> See data-driven priors for cosmic shear at small-scales<br>Bigwood & JM <em>et al.</em> (in prep)</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
