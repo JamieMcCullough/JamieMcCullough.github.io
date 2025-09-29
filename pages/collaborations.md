@@ -32,7 +32,7 @@ title:  "Research Groups"
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b15">
-        <img src="{{site.urlimg}}blank_profile.png" alt="" height=auto width=180px class="circular--square">
+        <img src="{{site.urlimg}}moritz_gammel.jpg" alt="" height=auto width=180px class="circular--square">
         <p style="text-align:center"><a href="https://www.physik.lmu.de/observatory/en/research/cosmology-at-usm/acai-group/">Moritz Gammel (LMU Munich)</a><br>See 4C3R2 Target Selection<br>JM & Gammel <em>et al.</em> (in prep)</p>
     </div><!-- /.medium-6.columns -->
 
