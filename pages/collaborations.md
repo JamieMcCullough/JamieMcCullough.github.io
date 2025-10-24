@@ -76,4 +76,10 @@ title:  "Research Groups"
         <p style="text-align:center">The <a href="https://roman.gsfc.nasa.gov/">Nancy Grace Roman Space Telescope</a></p>
     </div><!-- /.medium-6.columns -->
 
+    <div class="medium-6 columns b15">
+        <img src="https://github.com/echo-IA/.github/blob/main/assets/echoia_logo_black_text.png?raw=true" alt="Credit: echo-IA" height=240px width=auto class="center">
+        <p style="text-align:center">The <a href="https://echo-ia.org/">echo-IA</a> Collaboration</p>
+    </div><!-- /.medium-6.columns -->
+
+
 </div><!-- /.row -->
