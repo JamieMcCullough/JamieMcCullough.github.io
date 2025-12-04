@@ -72,12 +72,12 @@ title:  "Research Groups"
 </div><!-- /.row -->
 <div class="row t60">
     <div class="medium-6 columns b15">
-        <img src="https://roman-pipeline.readthedocs.io/en/latest/_images/roman_logo_black_w200px.png" alt="Credit: NASA/Roman" height=240px width=auto class="center">
+        <img src="https://roman-pipeline.readthedocs.io/en/latest/_images/roman_logo_black_w200px.png" alt="Credit: NASA/Roman" height=250px width=auto class="center">
         <p style="text-align:center">The <a href="https://roman.gsfc.nasa.gov/">Nancy Grace Roman Space Telescope</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b15">
-        <img src="https://echoia.org/images/logos/echoia_logo_black_notext_transparent.png" alt="Credit: echo-IA" height=150px width=auto class="center">
+        <img src="https://echoia.org/images/logos/echoia_logo_black_notext_transparent.png" alt="Credit: echo-IA" height=180px width=180px class="center">
         <p style="text-align:center">The <a href="https://echoia.org/">echo-IA</a> Collaboration</p>
     </div><!-- /.medium-6.columns -->
 
