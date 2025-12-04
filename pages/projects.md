@@ -14,11 +14,11 @@ title:  "Research Projects"
         <img src="{{site.urlimg}}bluebaryon_summary_cropped.png" alt="" height=auto width=400px class="center">
         <p style="text-align:center"><br><br><br>Confronting cosmic shear astrophysical uncertainties -- informed priors on baryon feedback and intrinsic alignment. See the <a href="{{site.url}}/data/bluebaryons/">data release page</a>.<br><br><a href="">Bigwood, McCullough, Siegel, Amon <em>et al.</em> 2025</a></p>
     </div><!-- /.medium-4.columns -->
-    
-    </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}desiy1_cropped.png" alt="" height=auto width=400px class="center">
         <p style="text-align:center"><br><br><br>Direct measurement of galaxy intrinsic alignment with the <a href="https://www.desi.lbl.gov/">Dark Energy Spectroscopic Instrument (DESI)</a>. See the <a href="{{site.url}}/data/desiy1_intrinsic_alignments/">data release page</a>.<br><br><a href="https://arxiv.org/abs/2507.11530">Siegel, McCullough, Amon <em>et al.</em> 2025</a></p>
+    </div><!-- /.medium-4.columns -->
+
 </div><!-- /.row -->
 <div class="row t60">
         </div><!-- /.medium-4.columns -->
