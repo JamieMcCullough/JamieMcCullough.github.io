@@ -11,8 +11,8 @@ title:  "Research Projects"
         <p style="text-align:center"><br><br><br><br>Galaxy property and data driven intrinsic alignment models in the <a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a>.<br><br>McCullough <em>et al.</em> (in prep)</p>
         </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns b15">
-        <img src="{{site.urlimg}}bluebaryon_summary_cropped.png" alt="" height=auto width=400px class="center">
-        <p style="text-align:center"><br><br><br>Confronting cosmic shear astrophysical uncertainties -- informed priors on baryon feedback and intrinsic alignment. See the <a href="{{site.url}}/data/bluebaryons/">data release page</a>.<br><br><a href="">Bigwood, McCullough, Siegel, Amon <em>et al.</em> 2025</a></p>
+        <img src="{{site.urlimg}}bluebaryon_summary_cropped.png" alt="" height=auto width=380px class="center">
+        <p style="text-align:center"><br>Confronting cosmic shear astrophysical uncertainties -- informed priors on baryon feedback and intrinsic alignment. See the <a href="{{site.url}}/data/bluebaryons/">data release page</a>.<br><br><a href="">Bigwood, McCullough, Siegel, Amon <em>et al.</em> 2025</a></p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}desiy1_cropped.png" alt="" height=auto width=400px class="center">
@@ -21,7 +21,6 @@ title:  "Research Projects"
 
 </div><!-- /.row -->
 <div class="row t60">
-        </div><!-- /.medium-4.columns -->
      <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}blueshear_summary.png" alt="" height=200px width=auto class="center">
         <p style="text-align:center">A cosmic shear reanalysis selecting on blue galaxies in DES Y3 to probe cosmic structure and mitigate intrinsic alignment. See the <a href="{{site.url}}/data/blueshear/">data release page</a>.<br><br><a href="https://arxiv.org/abs/2410.22272">McCullough <em>et al.</em> 2024</a></p>
