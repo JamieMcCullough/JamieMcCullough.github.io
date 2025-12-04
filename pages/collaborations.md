@@ -61,7 +61,7 @@ title:  "Research Groups"
 </div><!-- /.row -->
 <div class="row t60">
     <div class="medium-6 columns b15">
-        <img src="https://lsstdesc.org/assets/img/logo.png" alt="Credit: LSST/DESC" height=200px width=auto class="center">
+        <img src="https://lsstdesc.org/assets/img/logo.png" alt="Credit: LSST/DESC" height=180px width=auto class="center">
         <p style="text-align:center">The Legacy Survey of Space and Time (LSST) at the <a href="https://rubinobservatory.org/">Vera Rubin Observatory</a> and the <a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a></p>
     </div><!-- /.medium-6.columns -->
 
