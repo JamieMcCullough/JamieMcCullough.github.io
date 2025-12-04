@@ -20,11 +20,11 @@ header:
 
 </h4> <em>by Perimeter Institute (Jun 20, 2025)</em><br><blockquote>15 visiting researchers earn prestigious spots in this year’s Simons Emmy Noether Fellowship program, and are ready to bring their physics to life ... </blockquote></p><p style="text-align:center"><a class="radius button small" href="https://perimeterinstitute.ca/news/meet-2025-emmy-noether-fellows">Read more</a> </p>
 
-<p><img src="https://phyweb.lbl.gov/~rncahn/www/desi.jpg" alt="" style="display:inline-block; padding-right:10px; width:auto; height:70px;"><h4>Meet a DESI member
+<p><img src="https://phyweb.lbl.gov/~rncahn/www/desi.jpg" alt="" style="display:inline-block; padding-right:10px; width:auto; height:90px;"><h4>Meet a DESI member
 
 </h4> <em>by Jamie McCullough (Jan 25, 2025)</em><br><blockquote> An ongoing series where DESI members answer questions about their work and give advice to aspiring scientists ... </blockquote></p><p style="text-align:center"><a class="radius button small" href="https://www.desi.lbl.gov/2025/03/11/jamie-mccullough/">Read more</a> </p>
 
-    <p><img src="https://phyweb.lbl.gov/~rncahn/www/desi.jpg" alt="" style="display:inline-block; padding-right:10px; width:auto; height:70px;"><h4>Charting the dark cosmic web: where DESI and imaging surveys intersect
+    <p><img src="https://phyweb.lbl.gov/~rncahn/www/desi.jpg" alt="" style="display:inline-block; padding-right:10px; width:auto; height:90px;"><h4>Charting the dark cosmic web: where DESI and imaging surveys intersect
 
 </h4> <em>by Jamie McCullough (Feb 25, 2025)</em><br><blockquote>Cosmological measurements often make use of sophisticated concepts that depart from the everyday. Here we visualize several of the concepts involved in plans to measure the distribution of dark matter in the universe and probe the growth of cosmic structure over time ... </blockquote></p><p style="text-align:center"><a class="radius button small" href="https://www.desi.lbl.gov/2025/02/25/charting-the-dark-cosmic-web-where-desi-and-imaging-surveys-intersect/">Read more</a> </p>
     
