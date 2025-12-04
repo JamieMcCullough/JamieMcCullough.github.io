@@ -11,8 +11,8 @@ title:  "Research Projects"
         <p style="text-align:center"><br><br><br><br>Galaxy property and data driven intrinsic alignment models in the <a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a>.<br><br>McCullough <em>et al.</em> (in prep)</p>
         </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns b15">
-        <img src="{{site.urlimg}}bluebaryon_summary_cropped.png" alt="" height=auto width=380px class="center">
-        <p style="text-align:center"><br>Confronting cosmic shear astrophysical uncertainties -- informed priors on baryon feedback and intrinsic alignment. See the <a href="{{site.url}}/data/bluebaryons/">data release page</a>.<br><br><a href="">Bigwood, McCullough, Siegel, Amon <em>et al.</em> 2025</a></p>
+        <img src="{{site.urlimg}}bluebaryon_summary_cropped.png" alt="" height=auto width=370px class="center">
+        <p style="text-align:center">Confronting cosmic shear astrophysical uncertainties -- informed priors on baryon feedback and intrinsic alignment. See the <a href="{{site.url}}/data/bluebaryons/">data release page</a>.<br><br><a href="">Bigwood, McCullough, Siegel, Amon <em>et al.</em> 2025</a></p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}desiy1_cropped.png" alt="" height=auto width=400px class="center">
@@ -40,6 +40,6 @@ title:  "Research Projects"
 
     <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}blending_img.png" alt="" height=auto width=370px class="center">
-        <p style="text-align:center"><br><br>Understanding shear bias - the relationship between shape and graviational shear - in the presence of galaxy-galaxy blending with image simulations for the <a href="https://www.darkenergysurvey.org/">Dark Energy Survey (DES)</a> Y3 Cosmology <a href="https://www.darkenergysurvey.org/des-year-3-cosmology-results-papers/">results</a>.<br><br><a href="https://academic.oup.com/mnras/article-abstract/509/3/3371/6385771">MacCrann, Becker, McCullough <em>et al.</em> 2021</a></p>
+        <p style="text-align:center"><br>Understanding shear bias - the relationship between shape and graviational shear - in the presence of galaxy-galaxy blending with image simulations for the <a href="https://www.darkenergysurvey.org/">Dark Energy Survey (DES)</a> Y3 Cosmology <a href="https://www.darkenergysurvey.org/des-year-3-cosmology-results-papers/">results</a>.<br><br><a href="https://academic.oup.com/mnras/article-abstract/509/3/3371/6385771">MacCrann, Becker, McCullough <em>et al.</em> 2021</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
