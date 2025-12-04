@@ -80,6 +80,11 @@ title:  "Research Groups"
         <img src="https://echoia.org/images/logos/echoia_logo_black_notext_transparent.png" alt="Credit: echo-IA" height=320px width=320px class="center">
         <p style="text-align:center">The <a href="https://echoia.org/">echo-IA</a> Collaboration</p>
     </div><!-- /.medium-6.columns -->
-
-
+    
+</div><!-- /.row -->
+<div class="row t60">
+    <div class="medium-6 columns b15">
+        <img src="https://wavesurvey.org/wp-content/uploads/sites/9/2022/08/waveslogo_new_logo.png" alt="Credit: WAVES" height=250px width=auto class="center">
+        <p style="text-align:center">The <a href="https://wavesurvey.org/">Wide Area VISTA Extragalactic Survey (WAVES)</a></p>
+    </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
