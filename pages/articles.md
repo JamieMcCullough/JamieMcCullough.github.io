@@ -14,7 +14,7 @@ header:
 <ul>
     <p><img src="https://lsstdiscoveryalliance.org/wp-content/uploads/2023/10/lsst-discovery-alliance-logo.svg" alt="" style="display:inline-block; padding-right:10px; width:auto; height:100px;"><h4>Catalyst Postdoc Alliance
 
-</h4> <em>by LSST Discovery Alliance (September, 2025)</em><br><blockquote>LSST Discovery Alliance is piloting a new program that brings valuable elements of the LSST-DA Catalyst Fellowship Program to a broader community of postdoctoral scholars: the Catalyst Postdoctoral Alliance ... </blockquote></p><p style="text-align:center"><a class="radius button small" href="https://lsstdiscoveryalliance.org/lsst-discovery-alliance-programs/catalyst-fellowship/catalyst-postdoc-alliance/">Read more</a> </p>
+</h4> <em>by LSST Discovery Alliance (Sept, 2025)</em><br><blockquote>LSST Discovery Alliance is piloting a new program that brings valuable elements of the LSST-DA Catalyst Fellowship Program to a broader community of postdoctoral scholars: the Catalyst Postdoctoral Alliance ... </blockquote></p><p style="text-align:center"><a class="radius button small" href="https://lsstdiscoveryalliance.org/lsst-discovery-alliance-programs/catalyst-fellowship/catalyst-postdoc-alliance/">Read more</a> </p>
 
     <p><img src="https://perimeterinstitute.ca/themes/custom/pi_theme/logo.svg" alt="" style="display:inline-block; padding-right:10px; width:auto; height:70px;"><h4>Meet the 2025 Emmy Noether Fellows
 
