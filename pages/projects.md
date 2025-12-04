@@ -11,7 +11,7 @@ title:  "Research Projects"
         <p style="text-align:center"><br><br><br><br>Galaxy property and data driven intrinsic alignment models in the <a href="https://lsstdesc.org/">Dark Energy Science Collaboration (DESC)</a>.<br><br>McCullough <em>et al.</em> (in prep)</p>
         </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns b15">
-        <img src="{{site.urlimg}}bluebaryon_summary_cropped.png" alt="" height=auto width=370px class="center">
+        <img src="{{site.urlimg}}bluebaryon_summary_cropped.png" alt="" height=auto width=340px class="center">
         <p style="text-align:center">Confronting cosmic shear astrophysical uncertainties -- informed priors on baryon feedback and intrinsic alignment. See the <a href="{{site.url}}/data/bluebaryons/">data release page</a>.<br><br><a href="">Bigwood, McCullough, Siegel, Amon <em>et al.</em> 2025</a></p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns b15">
