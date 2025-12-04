@@ -77,7 +77,7 @@ title:  "Research Groups"
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b15">
-        <img src="https://echoia.org/images/logos/echoia_logo_black_notext_transparent.png" alt="Credit: echo-IA" height=240px width=auto class="center">
+        <img src="https://echoia.org/images/logos/echoia_logo_black_notext_transparent.png" alt="Credit: echo-IA" height=180px width=auto class="center">
         <p style="text-align:center">The <a href="https://echoia.org/">echo-IA</a> Collaboration</p>
     </div><!-- /.medium-6.columns -->
 
