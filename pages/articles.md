@@ -12,6 +12,10 @@ header:
     caption_url: https://www.slac.stanford.edu/~kaehler/homepage/visualizations/images/
 ---
 <ul>
+    <p><img src="https://lsstdiscoveryalliance.org/wp-content/uploads/2023/10/lsst-discovery-alliance-logo.svg" alt="" style="display:inline-block; padding-right:10px; width:auto; height:70px;"><h4>Catalyst Postdoc Alliance
+
+</h4> <em>by LSST Discovery Alliance (September, 2025)</em><br><blockquote>LSST Discovery Alliance is piloting a new program that brings valuable elements of the LSST-DA Catalyst Fellowship Program to a broader community of postdoctoral scholars: the Catalyst Postdoctoral Alliance ... </blockquote></p><p style="text-align:center"><a class="radius button small" href="https://lsstdiscoveryalliance.org/lsst-discovery-alliance-programs/catalyst-fellowship/catalyst-postdoc-alliance/">Read more</a> </p>
+
     <p><img src="https://perimeterinstitute.ca/themes/custom/pi_theme/logo.svg" alt="" style="display:inline-block; padding-right:10px; width:auto; height:70px;"><h4>Meet the 2025 Emmy Noether Fellows
 
 </h4> <em>by Perimeter Institute (Jun 20, 2025)</em><br><blockquote>15 visiting researchers earn prestigious spots in this year’s Simons Emmy Noether Fellowship program, and are ready to bring their physics to life ... </blockquote></p><p style="text-align:center"><a class="radius button small" href="https://perimeterinstitute.ca/news/meet-2025-emmy-noether-fellows">Read more</a> </p>
