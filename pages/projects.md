@@ -12,7 +12,7 @@ title:  "Research Projects"
         </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}bluebaryon_summary_cropped.png" alt="" height=auto width=340px class="center">
-        <p style="text-align:center">Confronting cosmic shear astrophysical uncertainties -- informed priors on baryon feedback and intrinsic alignment. See the <a href="{{site.url}}/data/bluebaryons/">data release page</a>.<br><br><a href="">Bigwood, McCullough, Siegel, Amon <em>et al.</em> 2025</a></p>
+        <p style="text-align:center">Confronting cosmic shear astrophysical uncertainties -- informed priors on baryon feedback and intrinsic alignment. See the <a href="{{site.url}}/data/bluebaryons/">data release page</a>.<br><br><a href="https://arxiv.org/abs/2512.04209">Bigwood, McCullough, Siegel, Amon <em>et al.</em> 2025</a></p>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns b15">
         <img src="{{site.urlimg}}desiy1_cropped.png" alt="" height=auto width=400px class="center">
