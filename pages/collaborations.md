@@ -19,7 +19,7 @@ title:  "Research Groups"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns b15">
-        <img src="https://kipac.stanford.edu/sites/default/files/styles/max_325x325/public/person/ec130245c7687178dbf10357a8130134.jpg?itok=LL2RpFKK" alt="" height=auto width=180px class="circular--square">
+        <img src="https://profiles.stanford.edu/proxy/api/cap/profiles/86009/resources/profilephoto/350x350.1509539055841.jpg" alt="" height=auto width=180px class="circular--square">
         <p style="text-align:center"><a href="https://www.slac.stanford.edu/~roodman/index.html">Experimental Cosmology<br> at Stanford with Aaron Roodman</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
