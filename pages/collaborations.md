@@ -43,7 +43,7 @@ title:  "Research Groups"
 
     <div class="medium-6 columns b15">
         <img src="https://img1.wsimg.com/isteam/ip/2ade8e35-e5ea-4528-9ea9-a89813d0f72f/screenshot_2023-12-07_at_20.10.23.png/:/cr=t:0%25,l:0%25,w:100%25,h:83.53%25/rs=w:365,h:365,cg:true" alt="" height=auto width=180px class="circular--square">
-        <p style="text-align:center"><a href="https://leahbigwood.github.io/">Leah Bigwood (Cambridge)</a><br> See data-driven priors for cosmic shear at small-scales<br>Bigwood & JM <em>et al.</em> (in prep)</p>
+        <p style="text-align:center"><a href="https://leahbigwood.github.io/">Leah Bigwood (Cambridge)</a><br> See data-driven priors for cosmic shear at small-scales<br><a href="https://arxiv.org/abs/2512.04209">Bigwood & JM <em>et al.</em> 2025</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
