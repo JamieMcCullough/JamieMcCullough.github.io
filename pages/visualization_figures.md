@@ -80,7 +80,7 @@ header: no
      <p>A schematic for galaxy-galaxy lensing, where we measure the correlation between background shapes with foreground 'lens' galaxy positions. The distortions in the background galaxy shapes allows us to probe the profile of matter within those lens galaxies, which is strongly dominated by dark matter.</p>
 </div><!-- /.row -->
 <div class="row t60">
-     <img src="{{ site.urlimg }}strong_lensing_static.png" height=auto width=75% alt="">
+     <img src="{{ site.urlimg }}strong_lensing_static.png" style="width: 75%; height: auto;" alt="">
      <p>A schematic for strong gravitational lensing, where a foreground matter potential tangentially shears the shape of a background galaxy, but also changes its apparent position on the sky.</p>
 </div><!-- /.row -->
 
