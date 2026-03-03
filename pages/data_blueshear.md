@@ -106,7 +106,7 @@ The provided dictionary has keys `0, 1, 2, 3` for each tomographic bin with a li
     </div><!-- /.medium-12.columns -->
 
     <div class="medium-4 columns b15">
-        <img src="https://elisalegnani.github.io/assets/img/me_23_2.jpg" alt="" height=auto width=200px class="circular--square">
+        <img src="https://elisalegnani.github.io/assets/images/elisa_2025.jpeg" alt="" height=auto width=200px class="circular--square">
         <p style="text-align:center"><a href="https://elisalegnani.github.io/">Elisa Legnani</a></p>
     </div><!-- /.medium-12.columns -->
 
