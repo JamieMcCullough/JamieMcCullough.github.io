@@ -74,6 +74,28 @@ header: no
         <p>A depiction of a self-organizing map (SOM) at work, discretizing a 3D space into the 2D map seen on the right. This unsupervised machine learning technique preserves the geometry and distribution of the data.</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
+
+<div class="row t60">
+     <img src="{{ site.urlimg }}galaxy-galaxy-lensing-horizontal.png" alt="">
+     <p>A schematic for galaxy-galaxy lensing, where we measure the correlation between background shapes with foreground 'lens' galaxy positions. The distortions in the background galaxy shapes allows us to probe the profile of matter within those lens galaxies, which is strongly dominated by dark matter.</p>
+</div><!-- /.row -->
+<div class="row t60">
+     <img src="{{ site.urlimg }}strong_lensing_static.png" alt="">
+     <p>A schematic for strong gravitational lensing, where a foreground matter potential tangentially shears the shape of a background galaxy, but also changes its apparent position on the sky.</p>
+</div><!-- /.row -->
+
+<div class="row t60">
+    <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}static_balmer.png" alt="">
+        <p>A static version of one of the gifs above, depicting a passive galaxy at different redshifts and how it will show up in various optical filters on the Dark Energy Camera (DECam), giving us an ability to estimate its redshift and therefore distance. For these red galaxies, the so-called 'Balmer-break' at 400nm is a reliable feature that causes the flux to drop severely in bluer filters.</p>
+    </div><!-- /.medium-6.columns -->
+   
+   <div class="medium-6 columns b30">
+        <img src="{{ site.urlimg }}degenerate_spiral_elliptical.png" alt="">
+        <p>While the figure to the left showcases a very simple color-redshift relation, galaxies have very different spectral energy distributions (SEDs) depending on their astrophysical properties. Here we see that when limited to optical color information, some higher redshift spiral galaxies (star-forming) may appear very similar to lower redshift ellipticals (quenched). This is a color-redshift degeneracy that poses an obstacle to photometric redshift estimation, and is best broken by the addition of near-infrared and infrared color information.</p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
 <h2>How do we fit our cosmology to two-point correlations of galaxy shapes?</h2>
 <h4>Without the y-axis scaled by angular separation</h4>
 <div class="row t60">
