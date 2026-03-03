@@ -10,15 +10,15 @@ header:
   caption: "Image credit: Rubin Observatory/NSF/AURA/B. Quint"
 
 widget1:
-  title: "Research"
-  url: '/research/projects/'
-  image: research_widget.png
-  text: 'Weak gravitational lensing makes use of millions of galaxies to probe the largest structures in our universe. With spectroscopic and imaging surveys we can gain a high resolution picture of galaxies in the cosmic web.'
-widget2:
   title: "Visualizations"
   url: '/visualization/figures/'
   text: 'I have created a number of tools and figures to explain astrophysical phenomena that instructors, scientists, and students alike are welcome to use in any format.'
   image: hubble_deep_stronglens.gif
+widget2:
+  title: "Research"
+  url: '/research/projects/'
+  image: research_widget.png
+  text: 'Weak gravitational lensing makes use of millions of galaxies to probe the largest structures in our universe. With spectroscopic and imaging surveys we can gain a high resolution picture of galaxies in the cosmic web.'
 widget3:
   title: "Play with the data"
   url: '/data/'
