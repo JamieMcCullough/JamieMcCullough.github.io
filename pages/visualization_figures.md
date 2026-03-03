@@ -86,6 +86,9 @@ header: no
 
 <div class="row t60">
     <div class="medium-6 columns b30">
+       <br>
+       <br>
+       <br>
         <img src="{{ site.urlimg }}static_balmer.png" alt="">
         <p>A static version of one of the gifs above, depicting a passive galaxy at different redshifts and how it will show up in various optical filters on the Dark Energy Camera (DECam), giving us an ability to estimate its redshift and therefore distance. For these red galaxies, the so-called 'Balmer-break' at 400nm is a reliable feature that causes the flux to drop severely in bluer filters.</p>
     </div><!-- /.medium-6.columns -->
