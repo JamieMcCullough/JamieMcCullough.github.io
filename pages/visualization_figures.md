@@ -26,6 +26,10 @@ gallery:
 header: no
 ---
 <div class="row t60">
+   <img src="{{ site.urlimg }}desi_stepping_web_v4_smaller.gif" alt="">
+   <p>A walk through of increasingly distant galaxies in the footprint of the Dark Energy Spectroscopic Instrument's first year data release, showing the cosmic web with precise redshift measurements.</p>
+</div>
+<div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}animation_expansion_cropped.gif" alt="">
         <p>A demonstration of the expanding universe, where every object becomes further away from every other unless they are gravitationally bound.</p>
