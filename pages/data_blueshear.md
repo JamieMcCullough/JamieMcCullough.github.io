@@ -20,7 +20,7 @@ Modeling the intrinsic alignment (IA) of galaxies poses a challenge to weak lens
 <img src="{{site.urlimg}}blueshear_summary.png" class="center" height=auto width=470px>
 
 ## Available data products
-- Read the <strong>paper</strong>: <a href="https://arxiv.org/abs/2410.22272">arxiv</a>, <a href="">journal (TBD)</a>
+- Read the <strong>paper</strong>: <a href="https://arxiv.org/abs/2410.22272">arxiv</a>, <a href="https://journals.aps.org/prd/abstract/10.1103/wmp3-qc3p">journal (Phys. Rev. D, _Editor's Suggestion_)</a>
 - Read the follow-up paper that uses the blue sample _with an externally informed baryon feedback model_: <a href="https://arxiv.org/pdf/2512.04209">Bigwood, McCullough et al. 2025</a>
 - _For DES Y3 data access_: See the [Year 3 Cosmology Data Release](https://des.ncsa.illinois.edu/releases/y3a2)
 - For those doing cosmology with the fiducial Y3 blue sample (citable data download [here](https://zenodo.org/records/18762855)):
