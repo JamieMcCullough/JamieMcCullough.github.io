@@ -28,7 +28,7 @@ title:  "Research Groups"
 <div class="row t30">
     <div class="medium-6 columns b15">
         <img src="https://img1.wsimg.com/isteam/ip/2ade8e35-e5ea-4528-9ea9-a89813d0f72f/jared_2.jpg/:/cr=t:1.6%25,l:10.73%25,w:80.65%25,h:60.48%25/rs=w:365,h:365,cg:true,m" alt="" height=auto width=180px class="circular--square">
-        <p style="text-align:center"><a href="https://jaredcsiegel.github.io/">Jared Siegel (Princeton)</a><br>See <a href="{{site.url}}/data/desiy1_intrinsic_alignments">DESI Y1: Direct measurements of intrinsic alignment<br>Siegel, JM, Amon <em>et al.</em> 2025</a></p>
+        <p style="text-align:center"><a href="https://jaredcsiegel.github.io/">Jared Siegel (Princeton)</a><br>See <a href="{{site.url}}/data/desiy1_intrinsic_alignments">DESI Y1: Direct measurements of intrinsic alignment<br>Siegel, JM, Amon <em>et al.</em> 2025</a><br><a href="https://ui.adsabs.harvard.edu/abs/2026MNRAS.tmp..950S/abstract">kSZ, X-ray, & GGL constraints on the suppression of the matter power spectrum by baryon feedback<br>Siegel, Bigwood, Amon, JM <em>et al.</em>2025</a></p>
     </div><!-- /.medium-6.columns -->
 
     <div class="medium-6 columns b15">
