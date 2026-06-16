@@ -73,7 +73,7 @@ title:  "Research Groups"
 </div><!-- /.row -->
 <div class="row t60">
     <div class="medium-6 columns b15">
-        <img src="https://roman-pipeline.readthedocs.io/en/stable/_static/A_Rst_1020_Logo_Box_Color_Seafoamondarkblue_Logo_Full_Color_RGB_850px@72ppi.png?raw=true" alt="Credit: NASA/Roman" height=250px width=auto class="center">
+        <img src="https://roman-pipeline.readthedocs.io/en/stable/_static/A_Rst_1020_Logo_Box_Color_Seafoamondarkblue_Logo_Full_Color_RGB_850px@72ppi.png" alt="Credit: NASA/Roman" height=250px width=auto class="center">
         <p style="text-align:center">The <a href="https://roman.gsfc.nasa.gov/">Nancy Grace Roman Space Telescope</a></p>
     </div><!-- /.medium-6.columns -->
 
