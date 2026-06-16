@@ -77,7 +77,7 @@ title:  "Research Groups"
 </div><!-- /.row -->
 <div class="row t60">
     <div class="medium-6 columns b15">
-        <img src="https://avatars.githubusercontent.com/u/169937026?s=200&v=4" alt="Credit: NASA/Roman" height=250px width=auto class="center">
+        <img src="https://avatars.githubusercontent.com/u/169937026?s=200&v=4" alt="Credit: NASA/Roman" height=270px width=auto class="center">
         <p style="text-align:center">The <a href="https://roman.gsfc.nasa.gov/">Nancy Grace Roman Space Telescope</a></p>
     </div><!-- /.medium-6.columns -->
 
