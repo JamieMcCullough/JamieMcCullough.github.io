@@ -47,10 +47,12 @@ title:  "Research Groups"
         <p style="text-align:center"><a href="https://leahbigwood.github.io/">Leah Bigwood (Cambridge)</a><br> See data-driven priors for cosmic shear at small-scales<br><a href="https://arxiv.org/abs/2512.04209">Bigwood & JM <em>et al.</em> 2025</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
+<div class="row t60">
 <div class="medium-6 columns b15">
         <img src="https://web.astro.princeton.edu/sites/g/files/toruqf1486/files/styles/3x4_750w_1000h/public/2025-10/azana.jpg?itok=cn56gp_M" alt="" height=auto width=180px class="circular--square">
         <p style="text-align:center"><a href="https://www.linkedin.com/in/azana-queen-a9a628397"> Azana Queen (Princeton)</a><br> See HSC Y3 redshift calibration <br>Queen, Myles, JM <em>et al.</em> (in prep)</p>
 </div><!-- /.medium-6.columns -->
+<div class="row t60">
     
 <h1>Scientific Collaborations</h1>
 <div class="row t60">
