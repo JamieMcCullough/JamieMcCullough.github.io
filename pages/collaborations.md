@@ -52,7 +52,7 @@ title:  "Research Groups"
         <img src="https://web.astro.princeton.edu/sites/g/files/toruqf1486/files/styles/3x4_750w_1000h/public/2025-10/azana.jpg?itok=cn56gp_M" alt="" height=auto width=180px class="circular--square">
         <p style="text-align:center"><a href="https://www.linkedin.com/in/azana-queen-a9a628397"> Azana Queen (Princeton)</a><br> See HSC Y3 redshift calibration <br>Queen, Myles, JM <em>et al.</em> (in prep)</p>
 </div><!-- /.medium-6.columns -->
-<div class="row t60">
+</div><!-- /.row -->
     
 <h1>Scientific Collaborations</h1>
 <div class="row t60">
