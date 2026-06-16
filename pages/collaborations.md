@@ -33,9 +33,10 @@ title:  "Research Groups"
 
     <div class="medium-6 columns b15">
         <img src="{{site.urlimg}}moritz_gammel.jpg" alt="" height=auto width=180px class="circular--square">
-        <p style="text-align:center"><a href="https://www.physik.lmu.de/observatory/en/research/cosmology-at-usm/acai-group/">Moritz Gammel (LMU Munich)</a><br>See 4C3R2 Target Selection<br>JM & Gammel <em>et al.</em> (in prep)<br></p>
+        <p style="text-align:center"><a href="https://www.physik.lmu.de/observatory/en/research/cosmology-at-usm/acai-group/">Moritz Gammel (LMU Munich)</a><br><br>See 4C3R2 Target Selection<br>JM & Gammel <em>et al.</em> (in prep)<br><br></p>
     </div><!-- /.medium-6.columns -->
-
+</div><!-- /.row -->
+<div class="row t30">
     <div class="medium-6 columns b15">
         <img src="https://scholars.duke.edu/profile-images/thumbnail500/1288134.jpg?nocache=1758565319505" alt="" height=auto width=180px class="circular--square">
         <p style="text-align:center"><a href="https://cosmology.phy.duke.edu/author/boyan-yin/">Boyan Yin (Duke)</a><br> See DES Y6: Blue Shear<br>Yin, JM, Amon <em>et al.</em> (in prep)</p>
