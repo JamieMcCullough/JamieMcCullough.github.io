@@ -24,6 +24,9 @@ title:  "Resources for Outreach"
 <p><img src="https://nationallabs.org/wp-content/uploads/2017/03/slac-logo-1-1200x1000.png" alt="" style="display:inline-block; padding-right:30px; width:auto; height:280px; margin: 0px -70px -70px 0px"><h4>Science Accelerating Girls' Engagement (SAGE)</h4><br><blockquote>The SAGE Mission is to engage curious and passionate students of genders underrepresented in STEM, and empower them to explore a wide range of possibilities for their future. <a href="https://sage.slac.stanford.edu/">Read more</a></blockquote></p><br>
 
 <h1>Talking about Research</h1>
+<img src="https://indico.cern.ch/event/1616316/attachments/3180914/5746142/web.png" alt="" height=auto width=700px class="center">
+<p style="text-align:center">UNDARK 2026: Illuminating Cosmic Discord<br><a href="https://indico.cern.ch/event/1616316/contributions/7211090/">Informing weak lensing cosmology with multi-instrument astrophysical observations</a>
+    
 <img src="http://www.astro.utoronto.ca/wp-content/uploads/2019/12/logo6-1024x162.png" alt="" height=auto width=700px class="center">
 <p style="text-align:center">University of Toronty TASTY Talk Series (2026)<br><a href="https://www.youtube.com/watch?v=0DMY4fP_Qw8">Attacking astrophysical systematics of weak gravitational lensing with external probes</a></p>
 
