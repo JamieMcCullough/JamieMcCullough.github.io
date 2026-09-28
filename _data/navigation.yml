@@ -34,6 +34,8 @@
     url: "/data/blueshear/"
   - title: "DESI Y1 Intrinsic Alignments"
     url: "/data/desiy1_intrinsic_alignments/"
+  - title: "Tailored Intrinsic Alignment Priors"
+    url: "/data/tailoredIA/"
   
 
 - title: Articles
