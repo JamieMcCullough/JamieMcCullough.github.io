@@ -3,7 +3,7 @@ layout: page
 #title:  "Tailoring intrinsic-alignment priors to galaxy demographics for next-generation weak lensing"
 teaser: "<h3>Leveraging astrophysical information about galaxies to learn their dynamics</h3>Galaxies align with each other locally due to their neighbors exerting tidal forces &mdash; using direct measurements of this effect, we can estimate its impact on cosmological surveys."
 header:
-    title: "<h6 style='color:white;font-size:2rem;'>Tailored intrinsic alignment priors to galaxy demographics<h6>"
+    title: "<h6 style='color:white;font-size:2rem;'>Tailoring intrinsic alignment priors to galaxy demographics<h6>"
     background-color: "#212a8b;"
     image_fullwidth: "mayall_telescope.png"
     caption: "© The Regents of the University of California, Lawrence Berkeley National Laboratory"
