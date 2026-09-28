@@ -10,7 +10,7 @@ header:
     caption_url: https://photos.lbl.gov/bp/#/folder/4478426/
 
 sidebar_mod: left
-permalink: '/data/tailoredIA/'
+permalink: "/data/tailoredIA/"
 ---
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
 <style>.circular--square { border-radius: 50%; display: block; margin-left: auto; margin-right: auto;}</style>
