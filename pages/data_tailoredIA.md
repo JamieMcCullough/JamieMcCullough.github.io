@@ -21,7 +21,7 @@ The intrinsic alignment of galaxies remains a dominant systematic limiting the c
 
 ## Available data products
 - Read the <strong>paper</strong>: <a href="">arxiv</a>, <a href="">journal (TBA)</a>
-- Read the previous direct measurements paper using DESI Y1: <a href="">_Siegel, McCullough, et al. (2025)_</a>
+- Read the previous direct measurements paper using DESI Y1:<br><a href="">_Siegel, McCullough, et al. (2025)_</a>
 - For data visualization see (TBA)
 
 ## Major Collaborators
