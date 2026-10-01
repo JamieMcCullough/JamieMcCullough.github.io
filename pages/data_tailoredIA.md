@@ -1,7 +1,7 @@
 ---
 layout: page
 #title:  "Tailoring intrinsic-alignment priors to galaxy demographics for next-generation weak lensing"
-teaser: "<h3>Leveraging astrophysical information about galaxies to learn their dynamics</h3>Galaxies align with each other locally due to their neighbors exerting tidal forces. Using direct measurements of this effect, we can estimate its impact on cosmological surveys."
+teaser: "<h3>Leverage astrophysical information about galaxies to learn their dynamics</h3>Galaxies align with each other locally due to their neighbors exerting tidal forces. Using direct measurements of this effect, we can estimate its impact on cosmological surveys."
 header:
     title: "<h6 style='color:white;font-size:2rem;'>Tailoring intrinsic alignment priors<br>to galaxy demographics<h6>"
     background-color: "#212a8b;"
