@@ -1,9 +1,9 @@
 ---
 layout: page
 #title:  "Tailoring intrinsic-alignment priors to galaxy demographics for next-generation weak lensing"
-teaser: "<h3>Leveraging astrophysical information about galaxies to learn their dynamics</h3>Galaxies align with each other locally due to their neighbors exerting tidal forces &mdash; using direct measurements of this effect, we can estimate its impact on cosmological surveys."
+teaser: "<h3>Leveraging astrophysical information about galaxies to learn their dynamics</h3>Galaxies align with each other locally due to their neighbors exerting tidal forces. Using direct measurements of this effect, we can estimate its impact on cosmological surveys."
 header:
-    title: "<h6 style='color:white;font-size:2rem;'>Tailoring intrinsic alignment priors to galaxy demographics<h6>"
+    title: "<h6 style='color:white;font-size:2rem;'>Tailoring intrinsic alignment priors<br>to galaxy demographics<h6>"
     background-color: "#212a8b;"
     image_fullwidth: "mayall_telescope.png"
     caption: "© The Regents of the University of California, Lawrence Berkeley National Laboratory"
@@ -16,8 +16,8 @@ permalink: "/data/tailoredIA/"
 <style>.circular--square { border-radius: 50%; display: block; margin-left: auto; margin-right: auto;}</style>
 ### McCullough, Siegel, Amon, <em>et al.</em> 2026
 ## Abstract
-We present <mark>direct measurements of the intrinsic alignments (IA) of over 2 million spectroscopic galaxies</mark> using <mark>DESI Data Release 1</mark> and imaging from four lensing surveys: <mark>DES, HSC, KiDS, and SDSS</mark>. This work <strong>builds a library of IA measurements across colour, luminosity, stellar mass, and redshift</strong>. We map the dependence between galaxy type and IA amplitude; the <mark>bluest galaxies have an alignment consistent with zero</mark>, at both low (0.05 < z < 0.5) and high (0.8 < z < 1.55) redshifts. To construct cosmic shear samples minimally impacted by IA, we <mark>map the dependence of alignment with colour purity</mark>. Red, quenched galaxies are strongly aligned, with the amplitude of the signal increasing with luminosity and stellar mass. For DESI galaxies between z ∼ 0.2 − 1.5, trends in luminosity and colour alone are sufficient to explain the alignments we measure — with <strong>no need for an explicit redshift dependence</strong>. In a companion paper (Jeffrey et al., in prep), we perform detailed modelling of the IA signals with significant detections. Finally, to direct efforts for future IA measurements, we juxtapose the colour-magnitude-redshift coverage of existing IA measurements against modern and future lensing surveys.
-<img src="{{site.urlimg}}desiy1_summary.png" class="center" height=auto width=700px>
+The intrinsic alignment of galaxies remains a dominant systematic limiting the cosmological precision for weak gravitational lensing. While direct measurements of intrinsic alignments have expanded rapidly across diverse galaxy populations, cosmological analyses have typically adopted broad, survey-wide priors that do not reflect the physical properties of the galaxies being analyzed. We propose an <mark>empirical approach that leverages these direct measurements to tailor the prior on alignment to the demographics of the galaxies observed</mark> on alignment-essential axes (e.g., stellar mass and specific star-formation rate). Our method is conservative, adopting a flat prior where there are gaps in direct measurements, and agnostic to the underlying intrinsic-alignment model -- naturally accommodating future measurements and model developments as the observational library expands. We demonstrate the framework using existing direct measurements fit to the nonlinear alignment model to calibrate selections of galaxies in the Dark Energy Survey COSMOS deep field. We also showcase its simple integration with existing photometric redshift calibration infrastructure, thereby enabling the <mark>joint inference of redshift distributions and intrinsic alignment priors</mark> in future surveys. Beyond informing priors, this method enables a direct route for <mark>constructing and optimizing source samples</mark> with with <mark>well-understood intrinsic alignment properties</mark> for weak-lensing surveys.
+<img src="{{site.urlimg}}tailored_ia_summary.png" class="center" height=auto width=700px>
 
 ## Available data products
 - Read the <strong>paper</strong>: <a href="">arxiv</a>, <a href="">journal (TBA)</a>
