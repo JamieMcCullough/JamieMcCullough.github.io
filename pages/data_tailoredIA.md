@@ -22,7 +22,8 @@ The intrinsic alignment of galaxies remains a dominant systematic limiting the c
 ## Available data products
 - Read the <strong>paper</strong>: <a href="">arxiv</a>, <a href="">journal (TBA)</a>
 - Read the previous direct measurements paper using DESI Y1:<br><a href="">_Siegel, McCullough, et al. (2025)_</a>
-- For data visualization see (TBA)
+- To access the DESI $w_{g+}$ measurements for the sSFR and stellar mass splits in this work:
+<a class="radius button small" href="https://github.com/jmccull/jmccull.github.io/blob/main/dataproducts_tailoredIA/"><strong>Download FITS</strong> ›</a><br>   
 
 ## Major Collaborators
 <div class="row t30">
